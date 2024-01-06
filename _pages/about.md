@@ -22,7 +22,7 @@ redirect_from:
         <p>这里是你的文字。</p>
     </div>
     <div class="image">
-        <img src="a.png" alt="图片">
+        <img src="hhu.svg" alt="图片">
     </div>
 </div>
 
