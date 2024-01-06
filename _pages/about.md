@@ -28,6 +28,8 @@ redirect_from:
         }
         .image {
             flex: 25%;
+            display: flex;
+            justify-content: flex-end;
         }
     </style>
 </head>
