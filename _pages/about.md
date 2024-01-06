@@ -23,10 +23,10 @@ redirect_from:
             display: flex;
         }
         .text {
-            flex: 75%;
+            flex: 73%;
         }
         .image {
-            flex: 20%;
+            flex: 15%;
         }
     </style>
 </head>
