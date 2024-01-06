@@ -29,10 +29,11 @@ My research interest includes **ensemble learning** and **learning theory**.
 
 #  👨‍💻 Students
 
-**M.Eng Students in 2023:**
-- [Tian-Shuang Wu 吴填双](https://lyushenhuan.github.io/)
-- [Ning Chen 陈宁](https://lyushenhuan.github.io/)
-
+<details>
+<sumary>**M.Eng Students in 2023:**</sumary>
+> - [Tian-Shuang Wu 吴填双](https://lyushenhuan.github.io/)
+> - [Ning Chen 陈宁](https://lyushenhuan.github.io/)
+</details>
 
 # 📝 Publications 
 
