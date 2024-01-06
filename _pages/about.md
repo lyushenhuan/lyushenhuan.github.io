@@ -69,6 +69,7 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 
 
 # 🎖 Honors and Awards
+- *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society (Ranked 1/3), Nanjing.
 - *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
 - *2019.09* The First Class Academic Scholarship in Nanjing University, Nanjing. 
 - *2018.09* The First Class Academic Scholarship in Nanjing University, Nanjing.
