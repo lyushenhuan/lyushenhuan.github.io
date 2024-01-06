@@ -35,7 +35,7 @@ My research interest includes ensemble learning and learning theory.
 
 **Shen-Huan Lyu**, Yi-Xiao He, Zhi-Hua Zhou
 
-[code](https://github.com/lyushenhuan/lyushenhuan) [bib](images/lyushenhuan-512x512.png) 
+[[code]](https://github.com/lyushenhuan/lyushenhuan) [[bib]](images/lyushenhuan-512x512.png) 
 </div>
 </div>
 
