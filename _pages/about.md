@@ -24,7 +24,7 @@ I am an Assistant Researcher in [College of Computer Science & Software Engineer
 My research interest includes ensemble learning and learning theory. 
 
 # 🔥 News
-- *2022.12*: &nbsp;🎉🎉 The paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the CCF-A conference NeurIPS as Oral Representation. 
+- *2022.12*: &nbsp;🎉🎉 The paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the CCF-A conference NeurIPS 2022 as an Oral Representation. 
 
 # 📝 Publications 
 
@@ -39,19 +39,23 @@ My research interest includes ensemble learning and learning theory.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Interpreting Deep Forest through Feature Contribution and MDI Feature Importance](https://github.com), Yi-Xiao He, Shen-Huan Lyu, Yuan Jiang, **ACM Transactions on Knowledge Discovery from Data, 2024.**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
+- *2019.09* The First Class Academic Scholarship in Nanjing University, Nanjing. 
+- *2018.09* The First Class Academic Scholarship in Nanjing University, Nanjing.
+- *2017.09* Presidential Special Scholarship for first year Ph.D. Student in Nanjing University, Nanjing.
+- *2016.09* The Silver Prize Scholarship for Excellent Student in University of Science and Technology of China, Hefei.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017.09 - 2022.12*, Ph.D. in Computer Science, Nanjing University (NJU) 
+- *2013.09 - 2017.06*, B.Sc. in Statistics, University of Science and Technology of China (USTC)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.11*, Deep Forest, Z-Park National Laboratory, Beijing.
+- *2022.12*, Depth is More Powerful than Width, New Orleans Convention Center, Online.
+- *2022.01*, Margin Distribution Neural Networks, Huawei Noah's Ark Lab, Online.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.06 - 2022.08*, Machine Learning Engineer in [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/), China.
