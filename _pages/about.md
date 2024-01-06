@@ -31,7 +31,7 @@ My research interest includes ensemble learning and learning theory.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests [[code]](https://github.com/lyushenhuan/lyushenhuan) [[bib]](images/lyushenhuan-512x512.png) 
+[[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests [[code]](https://github.com/lyushenhuan/lyushenhuan) [[bib]](images/lyushenhuan-512x512.png) 
 
 **Shen-Huan Lyu**, Yi-Xiao He, Zhi-Hua Zhou
 
@@ -41,6 +41,20 @@ In: Advances in Neural Information Processing Systems 35, New Orleans, Louisiana
 </div>
 
 - [[TKDD 2024]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. <br>Yi-Xiao He, **Shen-Huan Lyu**, Yuan Jiang.<br>ACM Transactions on Knowledge Discovery from Data, in press, 2024.
+
+- [[NN 2022]](https://doi.org/10.1016/j.neunet.2022.03.019) Improving Generalization of Neural Networks by Leveraging Margin Distribution. [pdf] [code] [arXiv] [bib]
+**Shen-Huan Lyu**, Lu Wang, and Zhi-Hua Zhou.
+Neural Networks, 151:48-60, 2022.
+
+- [[CJE 2022]](https://doi.org/10.1049/cje.2022.00.178) A Region-Based Analysis for the Feature Concatenation in Deep Forests. [pdf] [bib]
+**Shen-Huan Lyu**, Yi-He Chen, and Zhi-Hua Zhou.
+Chinese Journal of Electronics, 2022.
+
+- [[ICDM 2021]](https://doi.org/10.1109/ICDM51629.2021.00118) Improving Deep Forest by Exploiting High-Order Interactions. [pdf] [code] [poster] [video] [bib]
+Yi-He Chen*, **Shen-Huan Lyu**\*, and Yuan Jiang (\* indicates equal contribution).
+In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 1030-1035, Auckland, NZ, 2021.
+
+
 
 # 🎖 Honors and Awards
 - *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
