@@ -30,8 +30,8 @@ My research interest includes **ensemble learning** and **learning theory**.
 #  👨‍💻 Students
 
 <details>
-<summary>**M.Eng Students:**</summary>
-> *2023:* [Tian-Shuang Wu 吴填双](https://lyushenhuan.github.io/) [Ning Chen 陈宁](https://lyushenhuan.github.io/)
+<summary><b>M.Eng Students:</b></summary>
+> <i>2023:</i> <a href='https://lyushenhuan.github.io/'>Tian-Shuang Wu 吴填双</a> <a href='https://lyushenhuan.github.io/'>Ning Chen 陈宁</a>
 </details>
 
 # 📝 Publications 
