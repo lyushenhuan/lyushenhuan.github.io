@@ -28,7 +28,7 @@ My research interest includes ensemble learning and learning theory.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests [[code]](https://github.com/lyushenhuan/lyushenhuan) [[bib]](images/lyushenhuan-512x512.png) 
