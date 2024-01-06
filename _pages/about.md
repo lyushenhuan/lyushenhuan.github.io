@@ -19,7 +19,9 @@ redirect_from:
 
 <b> Enrolling Students: Looking for self-motivated M.Sc/Ph.D. students to work on Artificial Intelligence. Feel free to send me an email with your CV. </b>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am an Assistant Researcher in [College of Computer Science & Software Engineering](https://cies.hhu.edu.cn/) at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from [Department of Computer Science & Technology](https://cs.nju.edu.cn/) in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree from [Department of Statistics](https://bs.ustc.edu.cn/chinese/teacher-8.html) in [University of Science and Technology of China](https://www.ustc.edu.cn/) in Jun. 2017.
+
+My research interest includes ensemble learning and learning theory. I have published 8 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=_NlDLQIAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>44</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=_NlDLQIAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
