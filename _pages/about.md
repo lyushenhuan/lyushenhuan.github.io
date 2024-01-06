@@ -21,24 +21,21 @@ redirect_from:
 
 I am an Assistant Researcher in [College of Computer Science & Software Engineering](https://cies.hhu.edu.cn/) at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from [Department of Computer Science & Technology](https://cs.nju.edu.cn/) in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree from [Department of Statistics](https://bs.ustc.edu.cn/chinese/teacher-8.html) in [University of Science and Technology of China](https://www.ustc.edu.cn/) in Jun. 2017.
 
-My research interest includes ensemble learning and learning theory. I have published 8 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=_NlDLQIAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>44</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=_NlDLQIAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest includes ensemble learning and learning theory. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.12*: &nbsp;🎉🎉 The paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the CCF-A conference NeurIPS as Oral Representation. 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Depth is More Powerful than Width with Prediction Concatenation in Deep Forests](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Shen-Huan Lyu**, Yi-Xiao He, Zhi-Hua Zhou
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[code](https://github.com/lyushenhuan/lyushenhuan) [bib](images/lyushenhuan-512x512.png) 
 </div>
 </div>
 
@@ -54,7 +51,7 @@ My research interest includes ensemble learning and learning theory. I have publ
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
