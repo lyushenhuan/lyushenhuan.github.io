@@ -24,10 +24,10 @@ redirect_from:
             justify-content: space-between;
         }
         .text {
-            flex: 50%;
+            flex: 75%;
         }
         .image {
-            flex: 15%;
+            flex: 25%;
         }
     </style>
 </head>
