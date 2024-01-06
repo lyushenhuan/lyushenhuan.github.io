@@ -49,7 +49,7 @@ Journal of Software, in press, 2024.
 
 - [[AISTATS 2023]](https://proceedings.mlr.press/v206/zheng23b.html)  On the Consistency Rate of Decision Tree Learning Algorithms. [[paper]](papers/zheng2023consistency.pdf) [[code]](https://github.com/lyushenhuan/zheng2023consistency) [[bib]](papers/zheng2023consistency.bib)<br>
 Qin-Cheng Zheng, **Shen-Huan Lyu**, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou.<br>
-In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS), pp. 7824-7848, Valencia, ES, 2023.
+In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, pp. 7824-7848, Valencia, ES, 2023.
 
 - [[NN 2022]](https://doi.org/10.1016/j.neunet.2022.03.019) Improving Generalization of Neural Networks by Leveraging Margin Distribution. [[paper]](papers/lyu2022improving.pdf) [[code]](https://github.com/lyushenhuan/lyu2022improving) [[bib]](papers/lyu2022improving.bib)<br>
 **Shen-Huan Lyu**, Lu Wang, and Zhi-Hua Zhou.<br>
