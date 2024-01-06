@@ -22,7 +22,7 @@ I am an Assistant Researcher in [College of Computer Science & Software Engineer
 My research interest includes **ensemble learning** and **learning theory**. 
 
 # 🔥 News
-- <b><font color='red'> Enrolling Students: Looking for self-motivated M.Sc/Ph.D. students to work on Artificial Intelligence. Feel free to send me an email with your CV. </font></b>
+- <b><font color='red'> Enrolling Students: Looking for self-motivated M.Sc/Ph.D. students to work on Artificial Intelligence. <br>Feel free to send me an email with your resume and a document stating your research motivation. </font></b>
 - *2023.12*: &nbsp;🎉🎉 My doctoral dissertation "Research on Theoretical Analysis of Deep Forests and Extensions" was awarded the **Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society (Ranked 1/3)**. 
 - *2022.12*: &nbsp;🎉🎉 My paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the **CCF-A** international conference NeurIPS 2022 as an **Oral Representation**. 
 - *2019.12*: &nbsp;🎉🎉 My first paper "A Refined Margin Distribution Analysis for Forest Representation Learning" is accepted by the **CCF-A** international conference NeurIPS 2019. 
