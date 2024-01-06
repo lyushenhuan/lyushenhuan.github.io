@@ -28,18 +28,25 @@ My research interest includes ensemble learning and learning theory.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Depth is More Powerful than Width with Prediction Concatenation in Deep Forests](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf)
+[Depth is More Powerful than Width with Prediction Concatenation in Deep Forests](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf)[[code]](https://github.com/lyushenhuan/lyushenhuan) [[bib]](images/lyushenhuan-512x512.png) 
 
 **Shen-Huan Lyu**, Yi-Xiao He, Zhi-Hua Zhou
 
-[[code]](https://github.com/lyushenhuan/lyushenhuan) [[bib]](images/lyushenhuan-512x512.png) 
+In: Advances in Neural Information Processing Systems 35, New Orleans, Louisiana, US, 2022.
+
+
+
 </div>
 </div>
 
-- [Interpreting Deep Forest through Feature Contribution and MDI Feature Importance](https://github.com), Yi-Xiao He, Shen-Huan Lyu, Yuan Jiang, **ACM Transactions on Knowledge Discovery from Data, 2024.**
+- [[TKDD]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. 
+
+Yi-Xiao He, **Shen-Huan Lyu**, Yuan Jiang.
+
+ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
 # 🎖 Honors and Awards
 - *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
