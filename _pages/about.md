@@ -40,19 +40,33 @@ In: Advances in Neural Information Processing Systems 35, New Orleans, Louisiana
 </div>
 </div>
 
-- [[TKDD 2024]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. <br>Yi-Xiao He, **Shen-Huan Lyu**, Yuan Jiang.<br>ACM Transactions on Knowledge Discovery from Data, in press, 2024.
+- [[TKDD 2024]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. <br>
+Yi-Xiao He, **Shen-Huan Lyu**, Yuan Jiang.<br>
+ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
-- [[NN 2022]](https://doi.org/10.1016/j.neunet.2022.03.019) Improving Generalization of Neural Networks by Leveraging Margin Distribution. [pdf] [code] [arXiv] [bib]
-**Shen-Huan Lyu**, Lu Wang, and Zhi-Hua Zhou.
+- [[JOS 2024]](https://github.com) Interaction Representations Based Deep Forest Method in Multi-Label Learning. <br>
+**Shen-Huan Lyu**, Yi-He Chen, Yuan Jiang.<br>
+Journal of Software, in press, 2024.
+
+- [[AISTATS 2023]](https://proceedings.mlr.press/v206/zheng23b.html)  On the Consistency Rate of Decision Tree Learning Algorithms.<br>
+Qin-Cheng Zheng, **Shen-Huan Lyu**, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou.<br>
+In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS), pp. 7824-7848, Valencia, ES, 2023.
+
+- [[NN 2022]](https://doi.org/10.1016/j.neunet.2022.03.019) Improving Generalization of Neural Networks by Leveraging Margin Distribution.<br>
+**Shen-Huan Lyu**, Lu Wang, and Zhi-Hua Zhou.<br>
 Neural Networks, 151:48-60, 2022.
 
-- [[CJE 2022]](https://doi.org/10.1049/cje.2022.00.178) A Region-Based Analysis for the Feature Concatenation in Deep Forests. [pdf] [bib]
-**Shen-Huan Lyu**, Yi-He Chen, and Zhi-Hua Zhou.
-Chinese Journal of Electronics, 2022.
+- [[CJE 2022]](https://doi.org/10.1049/cje.2022.00.178) A Region-Based Analysis for the Feature Concatenation in Deep Forests.<br>
+**Shen-Huan Lyu**, Yi-He Chen, and Zhi-Hua Zhou.<br>
+Chinese Journal of Electronics, 31(6):1072-1080, 2022.
 
-- [[ICDM 2021]](https://doi.org/10.1109/ICDM51629.2021.00118) Improving Deep Forest by Exploiting High-Order Interactions. [pdf] [code] [poster] [video] [bib]
-Yi-He Chen*, **Shen-Huan Lyu**\*, and Yuan Jiang (\* indicates equal contribution).
+- [[ICDM 2021]](https://doi.org/10.1109/ICDM51629.2021.00118) Improving Deep Forest by Exploiting High-Order Interactions.<br>
+Yi-He Chen*, **Shen-Huan Lyu**\*, and Yuan Jiang (\* indicates equal contribution).<br>
 In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 1030-1035, Auckland, NZ, 2021.
+
+- [[NeurIPS 2019]](https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning) A Refined Margin Distribution Analysis for Forest Representation Learning. <br>
+**Shen-Huan Lyu**, Liang Yang, and Zhi-Hua Zhou.<br>
+In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouver, British Columbia, CA, 2019.
 
 
 
