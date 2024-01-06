@@ -21,6 +21,7 @@ redirect_from:
     <style>
         .container {
             display: flex;
+            justify-content: space-between;
         }
         .text {
             flex: 50%;
