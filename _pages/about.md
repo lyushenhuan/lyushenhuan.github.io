@@ -111,5 +111,5 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 # 💻 Internships
 - *2022.06 - 2022.08*, Machine Learning Engineer in [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/), China.
 
-<br><br><br>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=175&t=n&d=f6H62vvUiuP417y0Ay_kEFkOzotDi4AXgmWyKl59wTY'></script>
+<br><br><br><br>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=f6H62vvUiuP417y0Ay_kEFkOzotDi4AXgmWyKl59wTY'></script>
