@@ -77,7 +77,7 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 - *2017.09* Presidential Special Scholarship for first year Ph.D. Student in Nanjing University, Nanjing.
 - *2016.09* The Silver Prize Scholarship for Excellent Student in University of Science and Technology of China, Hefei.
 
-# :bust_in_silhouette: Academic Service
+# ✨ Academic Service
 **Senior Program Committee Member of Conferences:**
 - IJCAI: 2021
 
