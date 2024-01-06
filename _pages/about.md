@@ -37,7 +37,7 @@ redirect_from:
               My research interest includes <b>ensemble learning</b> and <b>learning theory</b>.</p>
         </div>
         <div class="image">
-            <img src="images/hhu.svg" width="30%">
+            <img src="images/hhu.svg" alt='sym' width="45%">
         </div>
     </div>
 </body>
