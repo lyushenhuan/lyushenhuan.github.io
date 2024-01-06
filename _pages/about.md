@@ -27,7 +27,7 @@ My research interest includes **ensemble learning** and **learning theory**.
 - *2022.12*: &nbsp;🎉🎉 My paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the **CCF-A** international conference NeurIPS 2022 as an **Oral Representation**. 
 - *2019.12*: &nbsp;🎉🎉 My first paper "A Refined Margin Distribution Analysis for Forest Representation Learning" is accepted by the **CCF-A** international conference NeurIPS 2019. 
 
-#  Students
+#  👨‍💻 Students
 
 **M.Eng Students in 2023:**
 - [Tian-Shuang Wu 吴填双](https://lyushenhuan.github.io/)
