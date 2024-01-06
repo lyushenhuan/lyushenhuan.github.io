@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<b> Enrolling Students: Looking for self-motivated M.Sc/Ph.D. students to work on Artificial Intelligence. Feel free to send me an email with your CV. </b>
-
 I am an Assistant Researcher in [College of Computer Science & Software Engineering](https://cies.hhu.edu.cn/) at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from [Department of Computer Science & Technology](https://cs.nju.edu.cn/) in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree from [Department of Statistics](https://bs.ustc.edu.cn/chinese/teacher-8.html) in [University of Science and Technology of China](https://www.ustc.edu.cn/) in Jun. 2017.
 
 My research interest includes ensemble learning and learning theory. 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 <b> Enrolling Students: Looking for self-motivated M.Sc/Ph.D. students to work on Artificial Intelligence. Feel free to send me an email with your CV. </b>
 - *2022.12*: &nbsp;🎉🎉 The paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the CCF-A conference NeurIPS 2022 as an Oral Representation. 
 
 # 📝 Publications 
