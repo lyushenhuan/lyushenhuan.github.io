@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shen-Huan Lyu"
+title                    : "Shen-Huan Lyu (吕沈欢)"
 description              : "Assistent Researcher in Computer Science."
 repository               : "lyushenhuan/lyushenhuan.github.io"
 google_scholar_stats_use_cdn : true
