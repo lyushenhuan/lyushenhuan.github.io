@@ -77,6 +77,28 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 - *2017.09* Presidential Special Scholarship for first year Ph.D. Student in Nanjing University, Nanjing.
 - *2016.09* The Silver Prize Scholarship for Excellent Student in University of Science and Technology of China, Hefei.
 
+# :bust_in_silhouette: Academic Service
+**Senior Program Committee Member of Conferences:**
+- IJCAI: 2021
+
+**Program Committee Member of Conferences:**
+- ICML: 2021, 2022, 2023
+- NeurIPS: 2020,2021, 2022
+- AAAI: 2020, 2021
+- IJCAI: 2020, 2022, 2023
+- ICLR: 2020, 2021, 2022
+
+**Reviewer for Journals:**
+- Artificial Intelligence (AIJ)
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- ACM Transactions on Knowledge Discovery from Data (TKDD)
+- Machine Learning (MLJ)
+- Research
+- Chinese Journal of Electronics (CJE)
+- 软件学报 (Journal of Software, JOS)
+
 # 📖 Educations
 - *2017.09 - 2022.12*, Ph.D. in Computer Science, Nanjing University (NJU) 
 - *2013.09 - 2017.06*, B.Sc. in Statistics, University of Science and Technology of China (USTC)
