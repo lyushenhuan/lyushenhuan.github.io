@@ -37,7 +37,7 @@ redirect_from:
         <div class="text">
             <p>I am an Assistant Researcher in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. I obtained my Ph.D. degree from <a href='https://cs.nju.edu.cn/'>Department of Computer Science & Technology</a> in <a href='https://www.nju.edu.cn/main.htm'>Nanjing University</a> in Dec. 2022, where I was very fortunate to be advised by Prof. <a href='https://cs.nju.edu.cn/zhouzh/index.htm'>Zhi-Hua Zhou</a>. Before that, I received my B.Sc. degree from <a href='https://bs.ustc.edu.cn/chinese/teacher-8.html'>Department of Statistics</a> in <a href='https://www.ustc.edu.cn/'>University of Science and Technology of China</a> in Jun. 2017.<br><br>
               My research interest includes <b>ensemble learning</b> and <b>learning theory</b>.<br><br>
-              <a href='papers/lyu2024cv'>[resume]</a> & <a href='papers/lyu2024cv'>[中文简历]</a></p>
+              <a href='papers/lyu2024cv.pdf'>[resume]</a> & <a href='papers/lyu2024cv.pdf'>[中文简历]</a></p>
         </div>
         <div class="image">
             <img src="images/hhu.svg" alt='sym' width="60%">
