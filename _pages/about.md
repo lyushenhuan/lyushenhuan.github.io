@@ -119,11 +119,11 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 - IJCAI: 2021
 
 **Program Committee Member of Conferences:**
-- ICML: 2021, 2022, 2023
-- NeurIPS: 2020,2021, 2022
-- AAAI: 2020, 2021
-- IJCAI: 2020, 2022, 2023
-- ICLR: 2020, 2021, 2022
+- ICML: 2021-2024
+- NeurIPS: 2020-2023
+- AAAI: 2020, 2021, 2023
+- IJCAI: 2020, 2022-2024
+- ICLR: 2020-2023
 
 **Reviewer for Journals:**
 - Artificial Intelligence (AIJ)
@@ -133,7 +133,7 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 - ACM Transactions on Knowledge Discovery from Data (TKDD)
 - Machine Learning (MLJ)
 - Research
-- Chinese Journal of Electronics (CJE)
+- 电子学报 (Chinese Journal of Electronics, CJE)
 - 软件学报 (Journal of Software, JOS)
 
 # 📖 Educations
