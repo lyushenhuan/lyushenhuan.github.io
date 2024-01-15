@@ -66,16 +66,6 @@ My research interest includes **ensemble learning** and **learning theory**. -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/lyushenhuan/lyu2022depth) [[bib]](papers/lyu2022depth.bib) <br> 
-**Shen-Huan Lyu**, Yi-Xiao He, Zhi-Hua Zhou. <br>
-In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
-
-</div>
-</div>
-
 - [[TKDD 2024]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/lyushenhuan/he2024interpreting) [[bib]](papers/he2024interpreting.bib) <br>
 Yi-Xiao He, **Shen-Huan Lyu**, Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
@@ -87,6 +77,16 @@ Journal of Software, in press, 2024.
 - [[AISTATS 2023]](https://proceedings.mlr.press/v206/zheng23b.html)  On the Consistency Rate of Decision Tree Learning Algorithms. [[paper]](papers/zheng2023consistency.pdf) [[code]](https://github.com/lyushenhuan/zheng2023consistency) [[bib]](papers/zheng2023consistency.bib)<br>
 Qin-Cheng Zheng, **Shen-Huan Lyu**, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou.<br>
 In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, pp. 7824-7848, Valencia, ES, 2023.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/lyushenhuan/lyu2022depth) [[bib]](papers/lyu2022depth.bib) <br> 
+**Shen-Huan Lyu**, Yi-Xiao He, Zhi-Hua Zhou. <br>
+In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
+
+</div>
+</div>
 
 - [[NN 2022]](https://doi.org/10.1016/j.neunet.2022.03.019) Improving Generalization of Neural Networks by Leveraging Margin Distribution. [[paper]](papers/lyu2022improving.pdf) [[code]](https://github.com/lyushenhuan/lyu2022improving) [[bib]](papers/lyu2022improving.bib)<br>
 **Shen-Huan Lyu**, Lu Wang, and Zhi-Hua Zhou.<br>
