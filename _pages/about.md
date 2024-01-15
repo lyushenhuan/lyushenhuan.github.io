@@ -78,10 +78,10 @@ Journal of Software, in press, 2024.
 Qin-Cheng Zheng, **Shen-Huan Lyu**, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou.<br>
 In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, pp. 7824-7848, Valencia, ES, 2023.
 
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
----
 
 - [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/lyushenhuan/lyu2022depth) [[bib]](papers/lyu2022depth.bib) <br> 
 **Shen-Huan Lyu**, Yi-Xiao He, Zhi-Hua Zhou. <br>
