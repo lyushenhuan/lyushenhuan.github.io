@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>zheng2023consistency</title>
+    <script>
+        function copyText() {
+            var copyText = document.getElementById("bibtex");
+            copyText.select();
+            copyText.setSelectionRange(0, 99999); // For mobile devices
+            document.execCommand("copy");
+            alert("BibTeX has been copied!");
+        }
+    </script>
+</head>
+<body>
+    <textarea id="bibtex" rows="10" cols="150">
+@misc{he2023interpreting,
+title={Interpreting Deep Forest through Feature Contribution and MDI Feature Importance}, 
+author={Yi-Xiao He and Shen-Huan Lyu and Yuan Jiang},
+year={2023},
+eprint={2305.00805},
+archivePrefix={arXiv},
+primaryClass={cs.LG}
+}
+    </textarea>
+    <br/>
+    <button onclick="copyText()">Copy</button>
+</body>
+</html>
+
+
