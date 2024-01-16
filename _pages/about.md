@@ -70,7 +70,7 @@ My research interest includes **ensemble learning** and **learning theory**. -->
 Yi-Xiao He, **Shen-Huan Lyu**, Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
-- [[JOS 2024]](https://github.com) Interaction Representations Based Deep Forest Method in Multi-Label Learning. [[paper]](papers/lyu2024interaction.pdf) [[code]](https://github.com/lyushenhuan/lyu2024interaction) [[bib]](papers/lyu2024interaction.bib) <br>
+- [[JOS 2024]](https://www.jos.org.cn/jos/article/abstract/6841?st=search) Interaction Representations Based Deep Forest Method in Multi-Label Learning. [[paper]](papers/lyu2024interaction.pdf) [[code]](https://github.com/lyushenhuan/lyu2024interaction) [[bib]](papers/lyu2024interaction.bib) <br>
 **Shen-Huan Lyu**, Yi-He Chen, Yuan Jiang.<br>
 Journal of Software, in press, 2024.
 
