@@ -109,11 +109,11 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 
 - \[Draft\] BODTs: Boosted Oblique Decision Trees via Feature Concatenation.<br>
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, and Baoliu Ye.<br>
-Under review, 2024.
+Under Review, 2024.
 
 - \[Draft\] Multi-Class Imbalance Problem: A Multi-Objective Solution.<br>
 Yi-Xiao He, Dan-Xuan Liu, **Shen-Huan Lyu**, Chao Qian, and Zhi-Hua Zhou.<br>
-Under review, 2024.
+Under Review, 2024.
 
 
 # 🎖 Honors and Awards
