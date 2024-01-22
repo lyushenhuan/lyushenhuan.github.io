@@ -66,7 +66,7 @@ My research interest includes **ensemble learning** and **learning theory**. -->
 
 # 📝 Publications 
 
-- [[TKDD 2024]](https://arxiv.org/abs/2305.00805) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/lyushenhuan/he2024interpreting) [[bib]](papers/he2024interpreting.html) <br>
+- [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/lyushenhuan/he2024interpreting) [[bib]](papers/he2024interpreting.html) <br>
 Yi-Xiao He, **Shen-Huan Lyu**, Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
@@ -104,16 +104,6 @@ In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 10
 - [[NeurIPS 2019]](https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning) A Refined Margin Distribution Analysis for Forest Representation Learning. [[paper]](papers/lyu2019refined.pdf) [[code]](https://github.com/lyushenhuan/lyu2019refined) [[bib]](papers/lyu2019refined.html) <br>
 **Shen-Huan Lyu**, Liang Yang, and Zhi-Hua Zhou.<br>
 In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouver, British Columbia, CA, 2019.
-
-<!-- ---
-
-- \[Draft\] BODTs: Boosted Oblique Decision Trees via Feature Concatenation.<br>
-**Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, and Baoliu Ye.<br>
-Under Review, 2024.
-
-- \[Draft\] Multi-Class Imbalance Problem: A Multi-Objective Solution.<br>
-Yi-Xiao He, Dan-Xuan Liu, **Shen-Huan Lyu**, Chao Qian, and Zhi-Hua Zhou.<br>
-Under Review, 2024. -->
 
 
 # 🎖 Honors and Awards
