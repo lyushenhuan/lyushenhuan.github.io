@@ -103,7 +103,8 @@ In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 10
 In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouver, British Columbia, CA, 2019.
 
 
-<!-- - \[Draft\] BODTs: Boosted Oblique Decision Trees via Feature Concatenation.<br>
+<!-- 
+- \[Draft\] BODTs: Boosted Oblique Decision Trees via Feature Concatenation.<br>
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, and Baoliu Ye.<br>
 Under Review, 2024.
 
