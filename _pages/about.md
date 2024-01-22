@@ -37,7 +37,7 @@ redirect_from:
         <div class="text">
             <p>I am an Assistant Researcher in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. I obtained my Ph.D. degree from <a href='https://cs.nju.edu.cn/'>Department of Computer Science & Technology</a> in <a href='https://www.nju.edu.cn/main.htm'>Nanjing University</a> in Dec. 2022, where I was very fortunate to be advised by Prof. <a href='https://cs.nju.edu.cn/zhouzh/index.htm'>Zhi-Hua Zhou</a>. Before that, I received my B.Sc. degree from <a href='https://bs.ustc.edu.cn/chinese/teacher-8.html'>Department of Statistics</a> in <a href='https://www.ustc.edu.cn/'>University of Science and Technology of China</a> in Jun. 2017.<br><br>
               My research interest includes <b>ensemble learning</b> and <b>learning theory</b>.<br><br>
-              <a href='papers/lyu2024cv.pdf'>[resume]</a> & <a href='papers/lyu2024cv.pdf'>[中文简历]</a></p>
+              <a href='papers/lyu2024cv.pdf'>[resume]</a> & <a href='papers/吕沈欢简历.pdf'>[中文简历]</a></p>
         </div>
         <div class="image">
             <img src="images/hhu.svg" alt='sym' width="60%">
@@ -45,9 +45,6 @@ redirect_from:
     </div>
 </body>
 
-<!-- I am an Assistant Researcher in [College of Computer Science & Software Engineering](https://cies.hhu.edu.cn/) at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from [Department of Computer Science & Technology](https://cs.nju.edu.cn/) in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree from [Department of Statistics](https://bs.ustc.edu.cn/chinese/teacher-8.html) in [University of Science and Technology of China](https://www.ustc.edu.cn/) in Jun. 2017.
-
-My research interest includes **ensemble learning** and **learning theory**. -->
 
 # 🔥 News
 - <b><font color='red'> Enrolling Students: Looking for self-motivated M.Sc/Ph.D. students to work on Artificial Intelligence. <br>Feel free to send me an email with your resume and a document stating your research motivation. </font></b>
