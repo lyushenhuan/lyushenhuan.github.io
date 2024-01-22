@@ -103,6 +103,15 @@ In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 10
 In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouver, British Columbia, CA, 2019.
 
 
+<!-- - \[Draft\] BODTs: Boosted Oblique Decision Trees via Feature Concatenation.<br>
+**Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, and Baoliu Ye.<br>
+Under Review, 2024.
+
+- \[Draft\] Multi-Class Imbalance Problem: A Multi-Objective Solution.<br>
+Yi-Xiao He, Dan-Xuan Liu, **Shen-Huan Lyu**, Chao Qian, and Zhi-Hua Zhou.<br>
+Under Review, 2024.
+ -->
+
 # 🎖 Honors and Awards
 - *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society (Ranked 1/3), Nanjing.
 - *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
