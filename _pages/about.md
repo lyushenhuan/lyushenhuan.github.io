@@ -61,7 +61,7 @@ redirect_from:
 <b>2023:</b> <a href='https://lyushenhuan.github.io/'>Tian-Shuang Wu (吴填双)</a>; <a href='https://lyushenhuan.github.io/'>Ning Chen (陈宁)</a>;
 <!-- </details> -->
 
-<b><a href='papers/lyu2019refined.pdf'>[ML&DM Seminar]</a></b><br>
+<b><a href='seminar/MLDM-Seminar.html'>[ML&DM Seminar]</a></b><br>
 
 # 📝 Publications 
 
