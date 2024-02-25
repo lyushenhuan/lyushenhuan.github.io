@@ -84,7 +84,7 @@ In Proceedings of the 26th International Conference on Artificial Intelligence a
 <div class='paper-box-text' markdown="1">
 ---
 
-- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/lyushenhuan/lyu2022depth) [[bib]](papers/lyu2022depth.html) <br> 
+- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/lyushenhuan/lyu2022depth) [[bib]](papers/lyu2022depth.html) <br> 
 **Shen-Huan Lyu**, Yi-Xiao He, Zhi-Hua Zhou. <br>
 In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
 </div>
