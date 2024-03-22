@@ -108,12 +108,32 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 
 
 <!-- 
-- \[Draft\] BODTs: Boosted Oblique Decision Trees via Feature Concatenation.<br>
+- \[IJCAI 2024\] BODTs: Boosted Oblique Decision Trees via Feature Concatenation.<br>
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, and Baoliu Ye.<br>
 Under Review, 2024.
 
-- \[Draft\] Multi-Class Imbalance Problem: A Multi-Objective Solution.<br>
+- \[ISJ 2024\] Multi-Class Imbalance Problem: A Multi-Objective Solution.<br>
 Yi-Xiao He, Dan-Xuan Liu, **Shen-Huan Lyu**, Chao Qian, and Zhi-Hua Zhou.<br>
+Under Review, 2024.
+
+- \[ICML 2024\] Confidence-aware Contrastive Learning for Selective Classification.<br>
+Yu-Chang Wu, **Shen-Huan Lyu**, Haopu Shang, Xiangyu Wang, and Chao Qian.<br>
+Under Review, 2024.
+
+- \[ICML 2024\] Theoretical Investigation on Inductive Bias of Isolation Forest.<br>
+Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou.<br>
+Under Review, 2024.
+
+- \[ICML 2024\] Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning.<br>
+Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
+Under Review, 2024.
+
+- \[ECAI 2024\] Depth is More Powerful than Tree Size and Width in Forests.<br>
+**Shen-Huan Lyu**, Jin-Hui Wu, and Baoliu Ye.<br>
+Under Review, 2024.
+
+- \[NeurIPS 2024\] .<br>
+**Shen-Huan Lyu**, Yi-Xiao He, and Baoliu Ye.<br>
 Under Review, 2024.
  -->
 
@@ -144,7 +164,7 @@ Under Review, 2024.
 - ACM Transactions on Knowledge Discovery from Data (TKDD)
 - Machine Learning (MLJ)
 - Research
-- 电子学报 (Chinese Journal of Electronics, CJE)
+- Chinese Journal of Electronics (CJE)
 - 软件学报 (Journal of Software, JOS)
 
 # 📖 Educations
