@@ -176,8 +176,9 @@ Under Review, 2024.
 - *2022.12*, Depth is More Powerful than Width, New Orleans Convention Center, Online.
 - *2022.01*, Margin Distribution Neural Networks, Huawei Noah's Ark Lab, Online.
 
-# 💻 Internships
-- *2022.06 - 2022.08*, Machine Learning Engineer in [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/), China.
+# 💻 Experiences
+- *2022.12 - now*, Assistent Researcher in [Hohai University](https://www.hhu.edu.cn/), Nanjing.
+- *2022.06 - 2022.08*, Machine Learning Engineer in [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/), Nanjing.
 
 <br><br><br><br>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=f6H62vvUiuP417y0Ay_kEFkOzotDi4AXgmWyKl59wTY'></script>
