@@ -73,7 +73,7 @@ ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
 - [[JOS 2024]](https://www.jos.org.cn/jos/article/abstract/6841?st=search) Interaction Representations Based Deep Forest Method in Multi-Label Learning. [[paper]](papers/lyu2024interaction.pdf) [[code]](https://github.com/lyushenhuan/lyu2024interaction) [[bib]](papers/lyu2024interaction.html) <br>
 **Shen-Huan Lyu**, Yi-He Chen, Yuan Jiang.<br>
-Journal of Software, in press, 2024.
+Journal of Software, 35(4):1934-1944, 2024.
 
 - [[AISTATS 2023]](https://proceedings.mlr.press/v206/zheng23b.html)  On the Consistency Rate of Decision Tree Learning Algorithms. [[paper]](papers/zheng2023consistency.pdf) [[code]](https://github.com/lyushenhuan/zheng2023consistency) [[bib]](papers/zheng2023consistency.html)<br>
 Qin-Cheng Zheng, **Shen-Huan Lyu**, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou.<br>
