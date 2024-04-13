@@ -68,15 +68,15 @@ redirect_from:
 # 📝 Publications 
 
 - [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/lyushenhuan/he2024interpreting) [[bib]](papers/he2024interpreting.html) <br>
-Yi-Xiao He, **Shen-Huan Lyu**, Yuan Jiang.<br>
+Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
 - [[JOS 2024]](https://www.jos.org.cn/jos/article/abstract/6841?st=search) Interaction Representations Based Deep Forest Method in Multi-Label Learning. [[paper]](papers/lyu2024interaction.pdf) [[code]](https://github.com/lyushenhuan/lyu2024interaction) [[bib]](papers/lyu2024interaction.html) <br>
-**Shen-Huan Lyu**, Yi-He Chen, Yuan Jiang.<br>
+**Shen-Huan Lyu**, Yi-He Chen, and Yuan Jiang.<br>
 Journal of Software, 35(4):1934-1944, 2024.
 
 - [[AISTATS 2023]](https://proceedings.mlr.press/v206/zheng23b.html)  On the Consistency Rate of Decision Tree Learning Algorithms. [[paper]](papers/zheng2023consistency.pdf) [[code]](https://github.com/lyushenhuan/zheng2023consistency) [[bib]](papers/zheng2023consistency.html)<br>
-Qin-Cheng Zheng, **Shen-Huan Lyu**, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou.<br>
+Qin-Cheng Zheng, **Shen-Huan Lyu**, Shao-Qun Zhang, Yuan Jiang, and Zhi-Hua Zhou.<br>
 In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, pp. 7824-7848, Valencia, ES, 2023.
 
 
@@ -85,7 +85,7 @@ In Proceedings of the 26th International Conference on Artificial Intelligence a
 ---
 
 - [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/lyushenhuan/lyu2022depth) [[bib]](papers/lyu2022depth.html) <br> 
-**Shen-Huan Lyu**, Yi-Xiao He, Zhi-Hua Zhou. <br>
+**Shen-Huan Lyu**, Yi-Xiao He, and Zhi-Hua Zhou. <br>
 In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
 </div>
 </div>
