@@ -128,7 +128,7 @@ Under Review, 2024.
 Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
 Under Review, 2024.
 
-- \[ECAI 2024\] Depth is More Powerful than Tree Size and Width in Forests.<br>
+- \[ECAI 2024\] The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest.<br>
 **Shen-Huan Lyu**, Jin-Hui Wu, and Baoliu Ye.<br>
 Under Review, 2024.
 
@@ -138,7 +138,9 @@ Under Review, 2024.
  -->
 
 # 🎖 Honors and Awards
-- *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society (Ranked 1/3), Nanjing.
+- *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society (Rank 1/3), Jiangsu.
+- *2023.06* The 5th Special Funding from China Postdoctoral Science Foundation, China.
+- *2022.12* Jiangsu Excellent Postdoctoral Program, Jiangsu.
 - *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
 - *2019.09* The First Class Academic Scholarship in Nanjing University, Nanjing. 
 - *2018.09* The First Class Academic Scholarship in Nanjing University, Nanjing.
