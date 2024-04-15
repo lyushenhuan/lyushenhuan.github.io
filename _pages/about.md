@@ -67,7 +67,7 @@ redirect_from:
 
 # 📝 Publications 
 
-- [[IWQoS 2024]](https://xxx/) Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2024identifying.pdf) [[code]](https://github.com/lyushenhuan/wang2024identifying) [[bib]](papers/wang2024identifying.html) <br>
+- [[IWQoS 2024]](https://iwqos2024.ieee-iwqos.org/) Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2024identifying.pdf) [[code]](https://github.com/lyushenhuan/wang2024identifying) [[bib]](papers/wang2024identifying.html) <br>
 Yanyan Wang, Jia Liu, **Shen-Huan Lyu**, Zhihao Qu, Bin Tang, and Baoliu Ye.<br>
 IEEE/ACM 32nd International Symposium on Quality of Service, in press, 2024.
 
