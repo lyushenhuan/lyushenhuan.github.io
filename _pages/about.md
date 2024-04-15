@@ -138,7 +138,7 @@ Under Review, 2024.
  -->
 
 # 🎖 Honors and Awards
-- *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society (Rank 1/3), Jiangsu.
+- *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society, Jiangsu.
 - *2023.06* The 5th Special Funding from China Postdoctoral Science Foundation, China.
 - *2022.12* Jiangsu Excellent Postdoctoral Program, Jiangsu.
 - *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
