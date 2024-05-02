@@ -68,6 +68,10 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/wu2024confidence.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+---
+
 - [[ICML 2024]](https://openreview.net/forum?id=SDCx6rQV2l&noteId=TXDkaq7gSe) Confidence-aware Contrastive Learning for Selective Classification. [[paper]](papers/wu2024confidence.pdf) [[code]](https://github.com/lyushenhuan/wu2024confidence) [[bib]](papers/wu2024confidence.html) <br>
 Yu-Chang Wu, **Shen-Huan Lyu**, Haopu Shang, Xiangyu Wang, and Chao Qian.<br>
 In: Proceedings of the 41st International Conference on Machine Learning, in press, 2024.
