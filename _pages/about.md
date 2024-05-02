@@ -117,10 +117,16 @@ Chinese Journal of Electronics, 31(6):1072-1080, 2022.
 Yi-He Chen*, **Shen-Huan Lyu**\*, and Yuan Jiang (\* indicates equal contribution).<br>
 In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 1030-1035, Auckland, NZ, 2021.
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/lyu2019refined.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+---
+
 - [[NeurIPS 2019]](https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning) A Refined Margin Distribution Analysis for Forest Representation Learning. [[paper]](papers/lyu2019refined.pdf) [[code]](https://github.com/lyushenhuan/lyu2019refined) [[bib]](papers/lyu2019refined.html) <br>
 **Shen-Huan Lyu**, Liang Yang, and Zhi-Hua Zhou.<br>
 In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouver, British Columbia, CA, 2019.
-
+</div>
+</div>
 
 <!-- 
 - \[IJCAI 2024\] BODTs: Boosted Oblique Decision Trees via Feature Concatenation.<br>
