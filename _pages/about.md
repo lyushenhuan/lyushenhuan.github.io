@@ -67,9 +67,13 @@ redirect_from:
 
 # 📝 Publications 
 
+- [[ICML 2024]](https://openreview.net/forum?id=SDCx6rQV2l&noteId=TXDkaq7gSe) Confidence-aware Contrastive Learning for Selective Classification. [[paper]](papers/wu2024confidence.pdf) [[code]](https://github.com/lyushenhuan/wu2024confidence) [[bib]](papers/wu2024confidence.html) <br>
+Yu-Chang Wu, **Shen-Huan Lyu**, Haopu Shang, Xiangyu Wang, and Chao Qian.<br>
+In: Proceedings of the 41st International Conference on Machine Learning, in press, 2024.
+
 - [[IWQoS 2024]](https://iwqos2024.ieee-iwqos.org/) Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2024identifying.pdf) [[code]](https://github.com/lyushenhuan/wang2024identifying) [[bib]](papers/wang2024identifying.html) <br>
 Yanyan Wang, Jia Liu, **Shen-Huan Lyu**, Zhihao Qu, Bin Tang, and Baoliu Ye.<br>
-IEEE/ACM 32nd International Symposium on Quality of Service, in press, 2024.
+In: IEEE/ACM 32nd International Symposium on Quality of Service, in press, 2024.
 
 - [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/lyushenhuan/he2024interpreting) [[bib]](papers/he2024interpreting.html) <br>
 Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
@@ -118,10 +122,6 @@ Under Review, 2024.
 
 - \[ISJ 2024\] Multi-Class Imbalance Problem: A Multi-Objective Solution.<br>
 Yi-Xiao He, Dan-Xuan Liu, **Shen-Huan Lyu**, Chao Qian, and Zhi-Hua Zhou.<br>
-Under Review, 2024.
-
-- \[ICML 2024\] Confidence-aware Contrastive Learning for Selective Classification.<br>
-Yu-Chang Wu, **Shen-Huan Lyu**, Haopu Shang, Xiangyu Wang, and Chao Qian.<br>
 Under Review, 2024.
 
 - \[ICML 2024\] Theoretical Investigation on Inductive Bias of Isolation Forest.<br>
