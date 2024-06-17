@@ -72,6 +72,15 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 ---
 
+
+- \[ECAI 2024\] Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning.<br>
+Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
+in press, 2024.
+
+- \[ECAI 2024\] The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest.<br>
+**Shen-Huan Lyu***, Jin-Hui Wu*, Qin-Cheng Zheng, and Baoliu Ye.<br>
+in press, 2024.
+
 - [[ICML 2024]](https://icml.cc/virtual/2024/poster/34017) Confidence-Aware Contrastive Learning for Selective Classification. [[paper]](papers/wu2024confidence.pdf) [[code]](https://github.com/lyushenhuan/wu2024confidence) [[bib]](papers/wu2024confidence.html) <br>
 Yu-Chang Wu, **Shen-Huan Lyu**, Haopu Shang, Xiangyu Wang, and Chao Qian.<br>
 In: Proceedings of the 41st International Conference on Machine Learning, in press, 2024.
@@ -141,13 +150,6 @@ Under Review, 2024.
 Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou.<br>
 Under Review, 2024.
 
-- \[ECAI 2024\] Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning.<br>
-Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
-Under Review, 2024.
-
-- \[ECAI 2024\] The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest.<br>
-**Shen-Huan Lyu**, Jin-Hui Wu, Qin-Cheng Zheng, and Baoliu Ye.<br>
-Under Review, 2024.
 
 - \[AAAI 2024\] .<br>
 **Shen-Huan Lyu**, Yi-Xiao He, and Baoliu Ye.<br>
