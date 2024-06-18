@@ -69,13 +69,14 @@ redirect_from:
 # 📝 Publications 
 
 
-- \[ECAI 2024\] Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning.<br>
+- \[ECAI 2024\](https://) The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest.<br>
+**Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, and Baoliu Ye.<br>
+in press, 2024.
+
+- \[ECAI 2024\](https://) Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning.<br>
 Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
 in press, 2024.
 
-- \[ECAI 2024\] The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest.<br>
-**Shen-Huan Lyu***, Jin-Hui Wu*, Qin-Cheng Zheng, and Baoliu Ye.<br>
-in press, 2024.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/wu2024confidence.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -127,7 +128,7 @@ Neural Networks, 151:48-60, 2022.
 Chinese Journal of Electronics, 31(6):1072-1080, 2022.
 
 - [[ICDM 2021]](https://doi.org/10.1109/ICDM51629.2021.00118) Improving Deep Forest by Exploiting High-Order Interactions. [[paper]](papers/chen2021improving.pdf) [[code]](https://github.com/lyushenhuan/chen2021improving) [[bib]](papers/chen2021improving.html)<br>
-Yi-He Chen*, **Shen-Huan Lyu**\*, and Yuan Jiang (\* indicates equal contribution).<br>
+Yi-He Chen\*, **Shen-Huan Lyu**\*, and Yuan Jiang (\* indicates equal contribution).<br>
 In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 1030-1035, Auckland, NZ, 2021.
 
 
@@ -150,11 +151,11 @@ Under Review, 2024.
 Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou.<br>
 Under Review, 2024.
 
-
 - \[AAAI 2024\] .<br>
 **Shen-Huan Lyu**, Yi-Xiao He, and Baoliu Ye.<br>
 Under Review, 2024.
  -->
+
 
 # 🎖 Honors and Awards
 - *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society, Jiangsu.
