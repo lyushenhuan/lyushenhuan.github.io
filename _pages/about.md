@@ -55,12 +55,15 @@ redirect_from:
 
 #  👨‍💻 Students
 
-<!-- <details> -->
-<!-- <summary> -->
+
 <b>M.Eng Students</b><br>
-<!-- </summary> -->
+
 2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a>; <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a>;
-<!-- </details> -->
+2024: <a href='https://jiangyw.github.io/'>[Yi-Wei Jiang 姜怡炜]</a>;
+
+<b>B.Eng Students</b><br>
+<a href='https://xinjh.github.io/'>[Jin-Han Xin 辛金韩]</a>;
+
 
 <b>Collected Seminars</b><br>
 <a href='seminar/MLDM-Seminar.html'>[ML&DM Seminar]</a>: Seminar on Machine Learning and Data Mining for my students.<br>
