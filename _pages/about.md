@@ -129,7 +129,7 @@ Neural Networks, 151:48-60, 2022. **(CCF B, CAS Q1)**
 
 - [[CJE 2022]](https://doi.org/10.1049/cje.2022.00.178) A Region-Based Analysis for the Feature Concatenation in Deep Forests. [[paper]](papers/lyu2022region.pdf) [[code]](https://github.com/lyushenhuan/lyu2022region) [[bib]](papers/lyu2022region.html)<br>
 **Shen-Huan Lyu**, Yi-He Chen, and Zhi-Hua Zhou.<br>
-Chinese Journal of Electronics, 31(6):1072-1080, 2022. **(CCF A in Chinese)**
+Chinese Journal of Electronics, 31(6):1072-1080, 2022. **(CCF A in Chinese, CAS Q4)**
 
 - [[ICDM 2021]](https://doi.org/10.1109/ICDM51629.2021.00118) Improving Deep Forest by Exploiting High-Order Interactions. [[paper]](papers/chen2021improving.pdf) [[code]](https://github.com/lyushenhuan/chen2021improving) [[bib]](papers/chen2021improving.html)<br>
 Yi-He Chen\*, **Shen-Huan Lyu**\*, and Yuan Jiang (\* indicates equal contribution).<br>
