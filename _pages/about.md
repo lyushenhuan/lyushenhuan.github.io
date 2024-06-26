@@ -83,7 +83,7 @@ in press, 2024. -->
 
 - [[INS 2024]](https://) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024imbalance.pdf) [[code]](https://github.com/lyushenhuan/he2024imbalance) [[bib]](papers/he2024imbalance.html) <br>
 Yi-Xiao He, Dan-Xuan Liu, **Shen-Huan Lyu**, Chao Qian, and Zhi-Hua Zhou.<br>
-Information Sciences, in press, 2024.
+Information Sciences, in press, 2024. (CCF B, CAS Q1)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/wu2024confidence.png' alt="sym" width="100%"></div></div>
@@ -92,25 +92,25 @@ Information Sciences, in press, 2024.
 
 - [[ICML 2024]](https://icml.cc/virtual/2024/poster/34017) Confidence-Aware Contrastive Learning for Selective Classification. [[paper]](papers/wu2024confidence.pdf) [[code]](https://github.com/lyushenhuan/wu2024confidence) [[bib]](papers/wu2024confidence.html) <br>
 Yu-Chang Wu, **Shen-Huan Lyu**, Haopu Shang, Xiangyu Wang, and Chao Qian.<br>
-In: Proceedings of the 41st International Conference on Machine Learning, in press, 2024.
+In: Proceedings of the 41st International Conference on Machine Learning, in press, 2024. (CCF A)
 </div>
 </div>
 
 - [[IWQoS 2024]](https://iwqos2024.ieee-iwqos.org/) Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2024identifying.pdf) [[code]](https://github.com/lyushenhuan/wang2024identifying) [[bib]](papers/wang2024identifying.html) <br>
 Yanyan Wang, Jia Liu, **Shen-Huan Lyu**, Zhihao Qu, Bin Tang, and Baoliu Ye.<br>
-In: IEEE/ACM 32nd International Symposium on Quality of Service, in press, 2024.
+In: IEEE/ACM 32nd International Symposium on Quality of Service, in press, 2024. (CCF B)
 
 - [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/lyushenhuan/he2024interpreting) [[bib]](papers/he2024interpreting.html) <br>
 Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
-ACM Transactions on Knowledge Discovery from Data, in press, 2024.
+ACM Transactions on Knowledge Discovery from Data, in press, 2024. (CCF B)
 
 - [[JOS 2024]](https://www.jos.org.cn/jos/article/abstract/6841?st=search) Interaction Representations Based Deep Forest Method in Multi-Label Learning. [[paper]](papers/lyu2024interaction.pdf) [[code]](https://github.com/lyushenhuan/lyu2024interaction) [[bib]](papers/lyu2024interaction.html) <br>
 **Shen-Huan Lyu**, Yi-He Chen, and Yuan Jiang.<br>
-Journal of Software, 35(4):1934-1944, 2024.
+Journal of Software, 35(4):1934-1944, 2024. (CCF A in Chinese)
 
 - [[AISTATS 2023]](https://proceedings.mlr.press/v206/zheng23b.html)  On the Consistency Rate of Decision Tree Learning Algorithms. [[paper]](papers/zheng2023consistency.pdf) [[code]](https://github.com/lyushenhuan/zheng2023consistency) [[bib]](papers/zheng2023consistency.html)<br>
 Qin-Cheng Zheng, **Shen-Huan Lyu**, Shao-Qun Zhang, Yuan Jiang, and Zhi-Hua Zhou.<br>
-In: Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, pp. 7824-7848, Valencia, ES, 2023.
+In: Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, pp. 7824-7848, Valencia, ES, 2023. (CCF C)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
@@ -119,21 +119,21 @@ In: Proceedings of the 26th International Conference on Artificial Intelligence 
 
 - [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/lyushenhuan/lyu2022depth) [[bib]](papers/lyu2022depth.html) <br> 
 **Shen-Huan Lyu**, Yi-Xiao He, and Zhi-Hua Zhou. <br>
-In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
+In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022. (CCF A)
 </div>
 </div>
 
 - [[NN 2022]](https://doi.org/10.1016/j.neunet.2022.03.019) Improving Generalization of Neural Networks by Leveraging Margin Distribution. [[paper]](papers/lyu2022improving.pdf) [[code]](https://github.com/lyushenhuan/lyu2022improving) [[bib]](papers/lyu2022improving.html)<br>
 **Shen-Huan Lyu**, Lu Wang, and Zhi-Hua Zhou.<br>
-Neural Networks, 151:48-60, 2022.
+Neural Networks, 151:48-60, 2022. (CCF B, CAS Q1)
 
 - [[CJE 2022]](https://doi.org/10.1049/cje.2022.00.178) A Region-Based Analysis for the Feature Concatenation in Deep Forests. [[paper]](papers/lyu2022region.pdf) [[code]](https://github.com/lyushenhuan/lyu2022region) [[bib]](papers/lyu2022region.html)<br>
 **Shen-Huan Lyu**, Yi-He Chen, and Zhi-Hua Zhou.<br>
-Chinese Journal of Electronics, 31(6):1072-1080, 2022.
+Chinese Journal of Electronics, 31(6):1072-1080, 2022. (CCF A in Chinese)
 
 - [[ICDM 2021]](https://doi.org/10.1109/ICDM51629.2021.00118) Improving Deep Forest by Exploiting High-Order Interactions. [[paper]](papers/chen2021improving.pdf) [[code]](https://github.com/lyushenhuan/chen2021improving) [[bib]](papers/chen2021improving.html)<br>
 Yi-He Chen\*, **Shen-Huan Lyu**\*, and Yuan Jiang (\* indicates equal contribution).<br>
-In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 1030-1035, Auckland, NZ, 2021.
+In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 1030-1035, Auckland, NZ, 2021. (CCF B)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/lyu2019refined.png' alt="sym" width="100%"></div></div>
@@ -142,7 +142,7 @@ In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 10
 
 - [[NeurIPS 2019]](https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning) A Refined Margin Distribution Analysis for Forest Representation Learning. [[paper]](papers/lyu2019refined.pdf) [[code]](https://github.com/lyushenhuan/lyu2019refined) [[bib]](papers/lyu2019refined.html) <br>
 **Shen-Huan Lyu**, Liang Yang, and Zhi-Hua Zhou.<br>
-In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouver, British Columbia, CA, 2019.
+In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouver, British Columbia, CA, 2019. (CCF A)
 </div>
 </div>
 
