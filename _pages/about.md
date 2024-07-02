@@ -73,7 +73,7 @@ redirect_from:
 
 
 <!-- - [[ECAI 2024]](https://) The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest.<br>
-**Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, and Baoliu Ye.<br>
+**Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, and Baoliu Ye. (\* indicates equal contribution)<br>
 in press, 2024.
 
 - [[ECAI 2024]](https://) Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning.<br>
@@ -132,7 +132,7 @@ Neural Networks, 151:48-60, 2022. **(CCF B, CAS Q1)**
 Chinese Journal of Electronics, 31(6):1072-1080, 2022. **(CCF A in Chinese, CAS Q4)**
 
 - [[ICDM 2021]](https://doi.org/10.1109/ICDM51629.2021.00118) Improving Deep Forest by Exploiting High-Order Interactions. [[paper]](papers/chen2021improving.pdf) [[code]](https://github.com/lyushenhuan/chen2021improving) [[bib]](papers/chen2021improving.html)<br>
-Yi-He Chen\*, **Shen-Huan Lyu**\*, and Yuan Jiang (\* indicates equal contribution).<br>
+Yi-He Chen\*, **Shen-Huan Lyu**\*, and Yuan Jiang. (\* indicates equal contribution)<br>
 In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 1030-1035, Auckland, NZ, 2021. **(CCF B)**
 
 
@@ -162,6 +162,7 @@ Under Review, 2024.
 
 
 # 🎖 Honors and Awards
+- *2024.07* Jiangsu Youth Science and Technology Talent Sponsorship Program, Jiangsu.
 - *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society, Jiangsu.
 - *2023.06* The 5th Special Funding from China Postdoctoral Science Foundation, China.
 - *2022.12* Jiangsu Excellent Postdoctoral Program, Jiangsu.
