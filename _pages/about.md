@@ -100,7 +100,7 @@ In: Proceedings of the 41st International Conference on Machine Learning, in pre
 Yanyan Wang, Jia Liu, **Shen-Huan Lyu**, Zhihao Qu, Bin Tang, and Baoliu Ye.<br>
 In: IEEE/ACM 32nd International Symposium on Quality of Service, in press, 2024. **(CCF B)**
 
-- [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/lyushenhuan/he2024interpreting) [[bib]](papers/he2024interpreting.html) <br>
+- [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
 Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024. **(CCF B, CAS Q3)**
 
