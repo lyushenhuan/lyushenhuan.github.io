@@ -97,7 +97,7 @@ In: Proceedings of the 41st International Conference on Machine Learning, in pre
 </div>
 </div>
 
-- [[IWQoS 2024]](https://iwqos2024.ieee-iwqos.org/) Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2024identifying.pdf) [[code]](https://github.com/lyushenhuan/wang2024identifying) [[bib]](papers/wang2024identifying.html) <br>
+- [[IWQoS 2024]](https://iwqos2024.ieee-iwqos.org/) Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2024identifying.pdf) [[bib]](papers/wang2024identifying.html) <br>
 Yanyan Wang, Jia Liu, **Shen-Huan Lyu**, Zhihao Qu, Bin Tang, and Baoliu Ye.<br>
 In: IEEE/ACM 32nd International Symposium on Quality of Service, in press, 2024. **(CCF B)**
 
@@ -105,7 +105,7 @@ In: IEEE/ACM 32nd International Symposium on Quality of Service, in press, 2024.
 Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024. **(CCF B, CAS Q3)**
 
-- [[JOS 2024]](https://www.jos.org.cn/jos/article/abstract/6841?st=search) Interaction Representations Based Deep Forest Method in Multi-Label Learning. [[paper]](papers/lyu2024interaction.pdf) [[code]](https://github.com/lyushenhuan/lyu2024interaction) [[bib]](papers/lyu2024interaction.html) <br>
+- [[JOS 2024]](https://www.jos.org.cn/jos/article/abstract/6841?st=search) Interaction Representations Based Deep Forest Method in Multi-Label Learning. [[paper]](papers/lyu2024interaction.pdf) [[bib]](papers/lyu2024interaction.html) <br>
 **Shen-Huan Lyu**, Yi-He Chen, and Yuan Jiang.<br>
 Journal of Software, 35(4):1934-1944, 2024. **(CCF A in Chinese)**
 
@@ -118,7 +118,7 @@ In: Proceedings of the 26th International Conference on Artificial Intelligence 
 <div class='paper-box-text' markdown="1">
 ---
 
-- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/lyushenhuan/lyu2022depth) [[bib]](papers/lyu2022depth.html) <br> 
+- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[bib]](papers/lyu2022depth.html) <br> 
 **Shen-Huan Lyu**, Yi-Xiao He, and Zhi-Hua Zhou. <br>
 In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022. **(CCF A)**
 </div>
@@ -128,7 +128,7 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 **Shen-Huan Lyu**, Lu Wang, and Zhi-Hua Zhou.<br>
 Neural Networks, 151:48-60, 2022. **(CCF B, CAS Q1)**
 
-- [[CJE 2022]](https://doi.org/10.1049/cje.2022.00.178) A Region-Based Analysis for the Feature Concatenation in Deep Forests. [[paper]](papers/lyu2022region.pdf) [[code]](https://github.com/lyushenhuan/lyu2022region) [[bib]](papers/lyu2022region.html)<br>
+- [[CJE 2022]](https://doi.org/10.1049/cje.2022.00.178) A Region-Based Analysis for the Feature Concatenation in Deep Forests. [[paper]](papers/lyu2022region.pdf) [[bib]](papers/lyu2022region.html)<br>
 **Shen-Huan Lyu**, Yi-He Chen, and Zhi-Hua Zhou.<br>
 Chinese Journal of Electronics, 31(6):1072-1080, 2022. **(CCF A in Chinese, CAS Q4)**
 
