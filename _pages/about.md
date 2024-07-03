@@ -69,6 +69,7 @@ redirect_from:
 <a href='seminar/MLDM-Seminar.html'>[ML&DM Seminar]</a>: Seminar on Machine Learning and Data Mining for my students.<br>
 <a href='https://www.fai-seminar.ac.cn/'>[FAI Seminar]</a>: International Seminar on Foundational Artificial Intelligence.<br>
 
+
 # 📝 Publications 
 
 
@@ -147,7 +148,7 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 </div>
 
 <!-- 
-- \[NeurIPS 2024\] BODTs: Boosted Oblique Decision Trees via Feature Concatenation.<br>
+- \[NeurIPS 2024\] Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation.<br>
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, and Baoliu Ye.<br>
 Under Review, 2024.
 
@@ -155,7 +156,7 @@ Under Review, 2024.
 Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou.<br>
 Under Review, 2024.
 
-- \[AAAI 2024\] .<br>
+- \[AAAI 2025\] Semi-Supervised Deep Forest: A Large Margin Expedition.<br>
 **Shen-Huan Lyu**, Yi-Xiao He, and Baoliu Ye.<br>
 Under Review, 2024.
  -->
