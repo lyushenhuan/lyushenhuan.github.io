@@ -159,6 +159,10 @@ Under Review, 2024.
 - \[AAAI 2025\] Semi-Supervised Deep Forest: A Large Margin Expedition.<br>
 **Shen-Huan Lyu**, Yi-Xiao He, and Baoliu Ye.<br>
 Under Review, 2024.
+
+- \[NN 2024\] The Role of Depth, Width, and Tree Size in Deep Forest.<br>
+**Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, Yuan Jiang, and Baoliu Ye. (\* indicates equal contribution)<br>
+Under Review, 2024.
  -->
 
 
