@@ -124,7 +124,7 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 </div>
 </div>
 
-- [[NN 2022]](https://doi.org/10.1016/j.neunet.2022.03.019) Improving Generalization of Neural Networks by Leveraging Margin Distribution. [[paper]](papers/lyu2022improving.pdf) [[code]](https://github.com/lyushenhuan/lyu2022improving) [[bib]](papers/lyu2022improving.html)<br>
+- [[NEUNET 2022]](https://doi.org/10.1016/j.neunet.2022.03.019) Improving Generalization of Neural Networks by Leveraging Margin Distribution. [[paper]](papers/lyu2022improving.pdf) [[code]](https://github.com/lyushenhuan/lyu2022improving) [[bib]](papers/lyu2022improving.html)<br>
 **Shen-Huan Lyu**, Lu Wang, and Zhi-Hua Zhou.<br>
 Neural Networks, 151:48-60, 2022. **(CCF B, CAS Q1)**
 
@@ -160,7 +160,7 @@ Under Review, 2024.
 **Shen-Huan Lyu**, Yi-Xiao He, and Baoliu Ye.<br>
 Under Review, 2024.
 
-- \[NN 2024\] The Role of Depth, Width, and Tree Size in Deep Forest.<br>
+- \[NEUNET 2024\] The Role of Depth, Width, and Tree Size in Deep Forest.<br>
 **Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, Yuan Jiang, and Baoliu Ye. (\* indicates equal contribution)<br>
 Under Review, 2024.
  -->
