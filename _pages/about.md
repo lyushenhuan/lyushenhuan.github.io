@@ -73,11 +73,11 @@ redirect_from:
 # 📝 Publications 
 
 
-- [[ECAI 2024]](https://) The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest. [[paper]](papers/lyu2024role.pdf) [[code]](https://github.com/lyushenhuan/lyu2024role) [[bib]](papers/lyu2024role.html) <br>
+- [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest. [[paper]](papers/lyu2024role.pdf) [[code]](https://github.com/lyushenhuan/lyu2024role) [[bib]](papers/lyu2024role.html) <br>
 **Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, and Baoliu Ye. (\* indicates equal contribution)<br>
 In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, 2024. **(CCF B)**
 
-- [[ECAI 2024]](https://) Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning.<br>
+- [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning. [[paper]](papers/zhou2024mask.pdf) [[code]](https://github.com/lyushenhuan/lyu2024role) [[bib]](papers/zhou2024mask.html) <br>
 Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
 In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, 2024. **(CCF B)**
 
