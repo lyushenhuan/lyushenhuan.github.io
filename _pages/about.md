@@ -81,10 +81,15 @@ In: Proceedings of the 27th European Conference on Artificial Intelligence, in p
 Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
 In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, 2024. **(CCF B)**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/he2024multi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+---
 
 - [[INS 2024]](https://www.sciencedirect.com/science/article/abs/pii/S0020025524010703) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024imbalance.pdf) [[code]](https://github.com/lyushenhuan/he2024imbalance) [[bib]](papers/he2024imbalance.html) <br>
 Yi-Xiao He, Dan-Xuan Liu, **Shen-Huan Lyu**, Chao Qian, and Zhi-Hua Zhou.<br>
 Information Sciences, in press, 2024. **(CCF B, CAS Q1)**
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/wu2024confidence.png' alt="sym" width="100%"></div></div>
