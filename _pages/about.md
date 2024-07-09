@@ -130,7 +130,7 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/wu2024confidence.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/lyu2022improving.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ---
 
