@@ -81,7 +81,7 @@ In: Proceedings of the 27th European Conference on Artificial Intelligence, in p
 Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
 In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, 2024. **(CCF B)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/he2024multi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2024</div><img src='images/he2024multi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ---
 
@@ -130,7 +130,7 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/lyu2022improving.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET 2022</div><img src='images/lyu2022improving.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ---
 
