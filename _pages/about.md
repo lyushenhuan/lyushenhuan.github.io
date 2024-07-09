@@ -85,7 +85,7 @@ In: Proceedings of the 27th European Conference on Artificial Intelligence, in p
 <div class='paper-box-text' markdown="1">
 ---
 
-- [[INS 2024]](https://www.sciencedirect.com/science/article/abs/pii/S0020025524010703) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024imbalance.pdf) [[code]](https://github.com/lyushenhuan/he2024imbalance) [[bib]](papers/he2024imbalance.html) <br>
+- [[INS 2024]](https://www.sciencedirect.com/science/article/abs/pii/S0020025524010703) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024multi.pdf) [[code]](https://github.com/lyushenhuan/he2024multi) [[bib]](papers/he2024multi.html) <br>
 Yi-Xiao He, Dan-Xuan Liu, **Shen-Huan Lyu**, Chao Qian, and Zhi-Hua Zhou.<br>
 Information Sciences, in press, 2024. **(CCF B, CAS Q1)**
 </div>
