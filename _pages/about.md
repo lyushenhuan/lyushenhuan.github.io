@@ -62,7 +62,7 @@ redirect_from:
 2024: <a href='https://jiangyw.github.io/'>[Yi-Wei Jiang 姜怡炜]</a>;
 
 <b>B.Eng Students</b><br>
-2024: <a href='https://xinjh.github.io/'>[Jin-Han Xin 辛金韩]</a>;
+2024: <a href='https://XJHpresident.github.io/'>[Jin-Han Xin 辛金韩]</a>;
 
 
 <b>Collected Seminars</b><br>
