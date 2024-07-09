@@ -129,9 +129,16 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/wu2024confidence.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+---
+
 - [[NEUNET 2022]](https://doi.org/10.1016/j.neunet.2022.03.019) Improving Generalization of Neural Networks by Leveraging Margin Distribution. [[paper]](papers/lyu2022improving.pdf) [[code]](https://github.com/lyushenhuan/lyu2022improving) [[bib]](papers/lyu2022improving.html)<br>
 **Shen-Huan Lyu**, Lu Wang, and Zhi-Hua Zhou.<br>
 Neural Networks, 151:48-60, 2022. **(CCF B, CAS Q1)**
+</div>
+</div>
 
 - [[CJE 2022]](https://doi.org/10.1049/cje.2022.00.178) A Region-Based Analysis for the Feature Concatenation in Deep Forests. [[paper]](papers/lyu2022region.pdf) [[bib]](papers/lyu2022region.html)<br>
 **Shen-Huan Lyu**, Yi-He Chen, and Zhi-Hua Zhou.<br>
