@@ -73,7 +73,7 @@ redirect_from:
 # 📝 Publications 
 
 
-- [[ECAI 2024]](https://) The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest.<br>
+- [[ECAI 2024]](https://) The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest. [[paper]](papers/lyu2024role.pdf) [[code]](https://github.com/lyushenhuan/lyu2024role) [[bib]](papers/lyu2024role.html) <br>
 **Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, and Baoliu Ye. (\* indicates equal contribution)<br>
 In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, 2024. **(CCF B)**
 
