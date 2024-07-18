@@ -77,7 +77,7 @@ redirect_from:
 **Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, and Baoliu Ye. (\* indicates equal contribution)<br>
 In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, 2024. **(CCF B)**
 
-- [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning. [[paper]](papers/zhou2024mask.pdf) [[code]](https://github.com/lyushenhuan/lyu2024role) [[bib]](papers/zhou2024mask.html) <br>
+- [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning. [[paper]](papers/zhou2024mask.pdf) [[code]](https://github.com) [[bib]](papers/zhou2024mask.html) <br>
 Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
 In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, 2024. **(CCF B)**
 
