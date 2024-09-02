@@ -182,7 +182,7 @@ Under Review, 2024.
 
 
 # 🎖 Honors and Awards
-<!-- - *2024.09* The Hong Kong Scholars Program, China. -->
+- *2024.09* The Hong Kong Scholars Program, China.
 - *2024.07* Jiangsu Youth Science and Technology Talent Sponsorship Program, Jiangsu.
 - *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society, Jiangsu.
 - *2023.06* The 5th Special Funding from China Postdoctoral Science Foundation, China.
