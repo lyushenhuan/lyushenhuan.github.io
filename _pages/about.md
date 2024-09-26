@@ -74,15 +74,15 @@ redirect_from:
 
 - [[PRICAI 2024]](https://) Personalized Federated Learning with Feature Alignment via Knowledge Distillation. [[paper]](papers/qi2024personalized.pdf) [[bib]](papers/qi2024personalized.html) <br>
 Guangfei Qi, Zhihao Qu, **Shen-Huan Lyu**, Ninghui Jia, and Baoliu Ye.<br>
-In: Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, in press, 2024. **(CCF C)**
+In: Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, in press, Kyoto, Japan, 2024. **(CCF C)**
 
 - [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest. [[paper]](papers/lyu2024role.pdf) [[code]](https://github.com/lyushenhuan/lyu2024role) [[bib]](papers/lyu2024role.html) <br>
 **Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, and Baoliu Ye. (\* indicates equal contribution)<br>
-In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, 2024. **(CCF B)**
+In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, Santiago de Compostela, Spain, 2024. **(CCF B)**
 
 - [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning. [[paper]](papers/zhou2024mask.pdf) [[code]](https://github.com) [[bib]](papers/zhou2024mask.html) <br>
 Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
-In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, 2024. **(CCF B)**
+In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, Santiago de Compostela, Spain, 2024. **(CCF B)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2024</div><img src='images/he2024multi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -101,7 +101,7 @@ Information Sciences, 680:121156, 2024. **(CCF B, CAS Q1)**
 
 - [[ICML 2024]](https://icml.cc/virtual/2024/poster/34017) Confidence-Aware Contrastive Learning for Selective Classification. [[paper]](papers/wu2024confidence.pdf) [[code]](https://github.com/lyushenhuan/wu2024confidence) [[bib]](papers/wu2024confidence.html) <br>
 Yu-Chang Wu, **Shen-Huan Lyu**, Haopu Shang, Xiangyu Wang, and Chao Qian.<br>
-In: Proceedings of the 41st International Conference on Machine Learning, in press, Vienna, Austria, 2024. **(CCF A)**
+In: Proceedings of the 41st International Conference on Machine Learning, pp. 53706-53729, Vienna, Austria, 2024. **(CCF A)**
 </div>
 </div>
 
