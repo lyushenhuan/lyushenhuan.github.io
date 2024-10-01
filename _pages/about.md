@@ -199,10 +199,11 @@ Under Review, 2024.
 
 **Program Committee Member of Conferences:**
 - ICML: 2021-2024
-- NeurIPS: 2020-2023
+- NeurIPS: 2020-2024
 - AAAI: 2020, 2021, 2023
 - IJCAI: 2020, 2022-2024
-- ICLR: 2020-2023
+- ICLR: 2020-2025
+- AISTATS: 2023-2025
 
 **Reviewer for Journals:**
 - Artificial Intelligence (AIJ)
