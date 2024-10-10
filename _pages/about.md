@@ -59,7 +59,7 @@ redirect_from:
 <b>M.Eng Students</b><br>
 
 2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a>; <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a>;<br>
-2024: <a href='https://airplanecc.github.io/'>[Yi-Wei Jiang 姜怡炜]</a>; <a href='https://xujl.github.io/'>[Jia-Le Xu 许佳乐]</a>;<br>
+2024: <a href='https://xujl.github.io/'>[Jia-Le Xu 许佳乐]</a>;<br>
 
 <b>B.Eng Students</b><br>
 2024: 
