@@ -78,11 +78,11 @@ In: Proceedings of the 21st Pacific Rim International Conference on Artificial I
 
 - [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest. [[paper]](papers/lyu2024role.pdf) [[code]](https://github.com/lyushenhuan/lyu2024role) [[bib]](papers/lyu2024role.html) <br>
 **Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, and Baoliu Ye. (\* indicates equal contribution)<br>
-In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, Santiago de Compostela, Spain, 2024. **(CCF B)**
+In: Proceedings of the 27th European Conference on Artificial Intelligence, pp. 2042-2049, Santiago de Compostela, Spain, 2024. **(CCF B)**
 
 - [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning. [[paper]](papers/zhou2024mask.pdf) [[code]](https://github.com) [[bib]](papers/zhou2024mask.html) <br>
 Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
-In: Proceedings of the 27th European Conference on Artificial Intelligence, in press, Santiago de Compostela, Spain, 2024. **(CCF B)**
+In: Proceedings of the 27th European Conference on Artificial Intelligence, pp. 2806-2813, Santiago de Compostela, Spain, 2024. **(CCF B)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2024</div><img src='images/he2024multi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
