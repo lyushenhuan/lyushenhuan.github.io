@@ -107,7 +107,7 @@ In: Proceedings of the 41st International Conference on Machine Learning, pp. 53
 
 - [[IWQoS 2024]](https://iwqos2024.ieee-iwqos.org/) Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2024identifying.pdf) [[bib]](papers/wang2024identifying.html) <br>
 Yanyan Wang, Jia Liu, **Shen-Huan Lyu**, Zhihao Qu, Bin Tang, and Baoliu Ye.<br>
-In: IEEE/ACM 32nd International Symposium on Quality of Service, pp. 1-10, Guangzhou, China, 2024. **(CCF B)**
+In: Proceedings of the 32nd IEEE/ACM International Symposium on Quality of Service, pp. 1-10, Guangzhou, China, 2024. **(CCF B)**
 
 - [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
 Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
