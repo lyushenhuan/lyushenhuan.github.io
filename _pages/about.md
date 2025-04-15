@@ -67,7 +67,7 @@ redirect_from:
 
 
 <b>Collected Seminars</b><br>
-<a href='seminar/MLDM-Seminar.html'>[ML&DM Seminar]</a>: Seminar on Machine Learning and Data Mining for my students.<br>
+<a href='seminar/ML&DM-Seminar.html'>[ML&DM Seminar]</a>: Seminar on Machine Learning and Data Mining for my students.<br>
 <a href='https://www.fai-seminar.ac.cn/'>[FAI Seminar]</a>: International Seminar on Foundational Artificial Intelligence.<br>
 
 
