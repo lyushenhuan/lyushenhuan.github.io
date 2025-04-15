@@ -60,9 +60,10 @@ redirect_from:
 
 2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a> (Co-supervised with Baoliu Ye); <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a> (Co-supervised with Bin Tang);<br>
 2024: <a href='https://xujl.github.io/'>[Jia-Le Xu 许佳乐]</a> (Co-supervised with Bin Tang);<br>
+2025: <a href='https://xujl.github.io/'>[Yu Huang 黄宇]</a> (Co-supervised with Zhihao Qu); <a href='https://xujl.github.io/'>[Yu-Nian Wang 王雨年]</a> (Co-supervised with Shihong Hu); <a href='https://xujl.github.io/'>[Lin-Kun Cui 崔林坤]</a> (Co-supervised with Shihong Hu);<br>
 
 <b>B.Eng Students</b><br>
-2024: 
+2025: <a href='https://xujl.github.io/'>[Xiaotong Liu 刘晓彤]</a><br>
 
 
 <b>Collected Seminars</b><br>
