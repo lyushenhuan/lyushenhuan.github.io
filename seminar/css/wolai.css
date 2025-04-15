@@ -217,7 +217,7 @@ header>div.title {
 @media only screen and (max-width: 760px) {
   header>div.title {
     max-width: inherit;
-    padding: 0 72px;
+    padding: 0 24px;
   }
 }
 body.full-width header>div.title {
@@ -270,7 +270,7 @@ body.full-width article {
 }
 @media only screen and (max-width: 760px) {
   article {
-    padding: 0 72px;
+    padding: 0 24px;
   }
 }
 .wolai-block:first-child {
@@ -927,6 +927,9 @@ div.wolai-block.wolai-task-block>div.marker {
   height: 24px;
   background-repeat: no-repeat;
   background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 details>summary>div.marker {
   position: absolute;
@@ -1025,11 +1028,9 @@ details>summary {
   padding-left: 27px;
 }
 details>summary { position: relative; }
-div.wolai-block.wolai-task-block.checked {
-  opacity: 0.5;
-}
 div.wolai-block.wolai-task-block.checked>.wrapper {
-  text-decoration: line-through;
+    opacity: 0.5;
+    text-decoration: line-through;
 }
 details>summary>div.marker {
     height:100%;
