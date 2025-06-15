@@ -79,7 +79,7 @@ In: Proceedings of the 33rd IEEE/ACM International Symposium on Quality of Servi
 
 - [[ICLR 2025]](https://iclr.cc/virtual/2025/poster/28117) Offline Model-Based Optimization by Learning to Rank. [[paper]](papers/tan2025offline.pdf) [[bib]](papers/tan2025offline.html) <br>
 Rong-Xi Tan, Ke Xue, **Shen-Huan Lyu**, Haopu Shang, Yao Wang, Yaoyuan Wang, Sheng Fu, and Chao Qian<br>
-In: Proceedings of the 13th International Conference on Learning Representations, in press, 2025.
+In: Proceedings of the 13th International Conference on Learning Representations, pp. 1-17, Singapore, 2025.
 
 - [[PRICAI 2024]](https://www.pricai.org/2024/index.php/programs/accepted-papers) Personalized Federated Learning with Feature Alignment via Knowledge Distillation. [[paper]](papers/qi2024personalized.pdf) [[bib]](papers/qi2024personalized.html) <br>
 Guangfei Qi, Zhihao Qu, **Shen-Huan Lyu**, Ninghui Jia, and Baoliu Ye.<br>
