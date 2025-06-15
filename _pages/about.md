@@ -74,7 +74,7 @@ redirect_from:
 # 📝 Publications 
 
 - [[IWQoS 2025]](https://iwqos2025.ieee-iwqos.org/) Multi-Range Query in Commodity RFID Systems. [[paper]](papers/wang2025multi.pdf) [[bib]](papers/wang2025multi.html) <br>
-Yanyan Wang, Jia Liu, Zhihao Qu<sup>#</sup>, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye.<br> (\# indicates correspondence.)
+Yanyan Wang, Jia Liu, Zhihao Qu<sup>#</sup>, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye. (\# indicates correspondence.)<br> 
 In: Proceedings of the 33rd IEEE/ACM International Symposium on Quality of Service, pp. 1-10, Gold Coast, Australia, 2025. **(CCF B)**
 
 - [[ICLR 2025]](https://iclr.cc/virtual/2025/poster/28117) Offline Model-Based Optimization by Learning to Rank. [[paper]](papers/tan2025offline.pdf) [[bib]](papers/tan2025offline.html) <br>
