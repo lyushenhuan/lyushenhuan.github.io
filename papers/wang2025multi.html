@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>wang2024identifying</title>
+    <script>
+        function copyText() {
+            var copyText = document.getElementById("bibtex");
+            copyText.select();
+            copyText.setSelectionRange(0, 99999); // For mobile devices
+            document.execCommand("copy");
+            alert("BibTeX has been copied!");
+        }
+    </script>
+</head>
+<body>
+    <textarea id="bibtex" rows="10" cols="150">
+@inproceedings{wang2025multi,
+title       = {Multi-Range Query in Commodity RFID Systems},
+author      = {Yanyan Wang and Jia Liu and Zhihao Qu and Shen-Huan Lyu and Bin Tang and Baoliu Ye},
+booktitle   = {IEEE/ACM 33rd International Symposium on Quality of Service},
+pages       = {1--12},
+year        = {2025}
+}
+    </textarea>
+    <br/>
+    <button onclick="copyText()">Copy</button>
+</body>
+</html>
+
+
