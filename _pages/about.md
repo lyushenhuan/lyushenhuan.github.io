@@ -62,7 +62,7 @@ redirect_from:
 2025: <a href='https://xujl.github.io/'>[Yu Huang 黄宇]</a> (Co-supervised with Zhihao Qu); <a href='https://xujl.github.io/'>[Yu-Nian Wang 王雨年]</a> (Co-supervised with Shihong Hu); <a href='https://xujl.github.io/'>[Lin-Kun Cui 崔林坤]</a> (Co-supervised with Shihong Hu);<br>
 
 <b>B.Eng Students</b><br>
-2024: <a href='https://xujl.github.io/'>[Zhongshi Chen 陈仲石]</a>
+2024: <a href='https://xujl.github.io/'>[Zhongshi Chen 陈仲石]</a><br>
 2025: <a href='https://xujl.github.io/'>[Xiaotong Liu 刘晓彤]</a>; <a href='https://xujl.github.io/'>[Guanghao Ding 丁广浩]</a>; <a href='https://xujl.github.io/'>[XunHao Zheng 郑旬澔]</a><br>
 
 
