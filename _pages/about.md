@@ -71,7 +71,7 @@ redirect_from:
 <a href='https://www.fai-seminar.ac.cn/'>[FAI Seminar]</a>: International Seminar on Foundational Artificial Intelligence.<br>
 
 
-<!-- # 📝 Manuscripts 
+<!-- # 📋 Manuscripts 
 
 
 - [INS 2025] Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. <br>
