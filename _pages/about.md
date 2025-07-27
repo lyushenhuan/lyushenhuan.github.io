@@ -71,6 +71,34 @@ redirect_from:
 <a href='https://www.fai-seminar.ac.cn/'>[FAI Seminar]</a>: International Seminar on Foundational Artificial Intelligence.<br>
 
 
+<!-- # 📝 Manuscripts 
+
+
+- [INS 2025] Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. <br>
+**Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br> 
+Information Sciences, Under Review, 2025. **(CCF B, CAS Q1)**
+
+- [PR 2025] Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. <br>
+Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
+Pattern Recognition, Under Review, 2025. **(CCF B, CAS Q1)**
+
+- [PRL 2025] Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. <br>
+Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
+Pattern Recognition, Under Review, 2025. **(CCF C, CAS Q4)**
+
+- [IPPR 2025] Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. <br>
+Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, and Bin Tang. (\# indicates correspondence.)<br> 
+In: Proceedings of the IEEE 2nd International Conference on Intelligent Perception and Pattern Recognition, Under Review, 2025.
+
+- [AAAI 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
+Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
+In: Proceedings of the 39th {AAAI} Conference on Artificial Intelligence, Under Review, 2025. **(CCF A)**
+
+- [KBS 2025] Semi-Supervised Deep Forest: A Large Margin Expedition. <br>
+**Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Baoliu Ye, and Qingfu Zhang.<br> 
+Knowledge-Based Systems, Under Review, 2025. **(CCF C, CAS Q1)**
+ -->
+
 # 📝 Publications 
 
 - [[IWQoS 2025]](https://iwqos2025.ieee-iwqos.org/) Multi-Range Query in Commodity RFID Systems. [[paper]](papers/wang2025multi.pdf) [[bib]](papers/wang2025multi.html) <br>
