@@ -203,24 +203,6 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 </div>
 </div>
 
-<!-- 
-- \[NeurIPS 2024\] Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation.<br>
-**Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, and Baoliu Ye.<br>
-Under Review, 2024.
-
-- \[NeurIPS 2024\] Theoretical Investigation on Inductive Bias of Isolation Forest.<br>
-Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou.<br>
-Under Review, 2024.
-
-- \[AAAI 2025\] Semi-Supervised Deep Forest: A Large Margin Expedition.<br>
-**Shen-Huan Lyu**, Yi-Xiao He, and Baoliu Ye.<br>
-Under Review, 2024.
-
-- \[NEUNET 2024\] The Role of Depth, Width, and Tree Size in Deep Forest.<br>
-**Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, Yuan Jiang, and Baoliu Ye. (\* indicates equal contribution)<br>
-Under Review, 2024.
- -->
-
 
 # 🎖 Honors and Awards
 - *2024.09* The Hong Kong Scholars Program, China.
