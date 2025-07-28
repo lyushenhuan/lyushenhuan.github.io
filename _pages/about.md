@@ -92,11 +92,15 @@ In: Proceedings of the IEEE 2nd International Conference on Intelligent Percepti
 
 - [AAAI 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
 Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
-In: Proceedings of the 39th {AAAI} Conference on Artificial Intelligence, Under Review, 2025. **(CCF A)**
+In: Proceedings of the 39th {AAAI} Conference on Artificial Intelligence, Under Review, 2026. **(CCF A)**
 
 - [KBS 2025] Semi-Supervised Deep Forest: A Large Margin Expedition. <br>
 **Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Baoliu Ye, and Qingfu Zhang.<br> 
 Knowledge-Based Systems, Under Review, 2025. **(CCF C, CAS Q1)**
+
+- [INFOCOM 2026] Beyond Reader-Level: Fine-Grained Antenna Scheduling for Efficient RFID Tag Collection. <br>
+Yanyan Wang, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye (\# indicates correspondence.).<br> 
+In: Proceedings of the IEEE Conference on Computer Communications, Under Review, 2026. **(CCF A)**
  -->
 
 # 📝 Publications 
