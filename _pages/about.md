@@ -73,11 +73,6 @@ redirect_from:
 
 <!-- # 📋 Manuscripts 
 
-
-- [INS 2025] Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. <br>
-**Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br> 
-Information Sciences, Under Review, 2025. **(CCF B, CAS Q1)**
-
 - [PR 2025] Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. <br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
 Pattern Recognition, Under Review, 2025. **(CCF B, CAS Q1)**
@@ -85,10 +80,6 @@ Pattern Recognition, Under Review, 2025. **(CCF B, CAS Q1)**
 - [PRL 2025] Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. <br>
 Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
 Pattern Recognition, Under Review, 2025. **(CCF C, CAS Q4)**
-
-- [IPPR 2025] Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. <br>
-Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, and Bin Tang. (\# indicates correspondence.)<br> 
-In: Proceedings of the IEEE 2nd International Conference on Intelligent Perception and Pattern Recognition, Under Review, 2025.
 
 - [AAAI 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
 Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
@@ -101,9 +92,21 @@ Knowledge-Based Systems, Under Review, 2025. **(CCF C, CAS Q1)**
 - [INFOCOM 2026] Beyond Reader-Level: Fine-Grained Antenna Scheduling for Efficient RFID Tag Collection. <br>
 Yanyan Wang, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye (\# indicates correspondence.).<br> 
 In: Proceedings of the IEEE Conference on Computer Communications, Under Review, 2026. **(CCF A)**
+
+- [TMC 2025] Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. <br>
+Yanyan Wang, Jia Liu, Zhihao, Qu, Shen-Huan Lyu, Bin Tang, and Baoliu Ye. <br> 
+IEEE Transactions on Mobile Computing, Under Review, 2026. **(CCF A)**
  -->
 
 # 📝 Publications 
+
+<!-- - [INS 2025] Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. <br>
+**Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br> 
+Information Sciences, in progress, 2025. **(CCF B, CAS Q1)** -->
+
+- [IPPR 2025] Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. <br>
+Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, and Bin Tang. (\# indicates correspondence.)<br> 
+In: Proceedings of the IEEE 2nd International Conference on Intelligent Perception and Pattern Recognition, in progress, 2025.
 
 - [[IWQoS 2025]](https://iwqos2025.ieee-iwqos.org/) Multi-Range Query in Commodity RFID Systems. [[paper]](papers/wang2025multi.pdf) [[bib]](papers/wang2025multi.html) <br>
 Yanyan Wang, Jia Liu, Zhihao Qu<sup>#</sup>, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye. (\# indicates correspondence.)<br> 
@@ -152,7 +155,7 @@ In: Proceedings of the 32nd IEEE/ACM International Symposium on Quality of Servi
 
 - [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
 Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
-ACM Transactions on Knowledge Discovery from Data, in press, 2024. **(CCF B, CAS Q3)**
+ACM Transactions on Knowledge Discovery from Data, in progress, 2024. **(CCF B, CAS Q3)**
 
 - [[JOS 2024]](https://www.jos.org.cn/jos/article/abstract/6841?st=search) Interaction Representations Based Deep Forest Method in Multi-Label Learning. [[paper]](papers/lyu2024interaction.pdf) [[bib]](papers/lyu2024interaction.html) <br>
 **Shen-Huan Lyu**, Yi-He Chen, and Yuan Jiang.<br>
