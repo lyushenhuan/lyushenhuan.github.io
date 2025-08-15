@@ -100,7 +100,7 @@ IEEE Transactions on Mobile Computing, Under Review, 2026. **(CCF A)**
 
 # 📝 Publications 
 
-- [INS 2025] Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. <br>
+- [[INS 2025]](http://www.ins.com/) Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. <br>
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br> 
 Information Sciences, in progress, 2025. **(CCF B, CAS Q1)**
 
