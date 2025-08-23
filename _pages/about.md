@@ -100,11 +100,11 @@ IEEE Transactions on Mobile Computing, Under Review, 2026. **(CCF A)**
 
 # 📝 Publications 
 
-- [[INS 2025]](http://www.ins.com/) Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. <br>
+- [[INS 2025]](http://www.ins.com/) Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. [[paper]](papers/lyu2025enhence.pdf) [[bib]](papers/lyu2025enhence.html) <br>
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br> 
 Information Sciences, in progress, 2025. **(CCF B, CAS Q1)**
 
-- [[IPPR 2025]](https://www.icippr.org/) Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. <br>
+- [[IPPR 2025]](https://www.icippr.org/) Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. [[paper]](papers/chen2025learning.pdf) [[bib]](papers/chen2025learning.html) <br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, and Bin Tang. (\# indicates correspondence.)<br> 
 In: Proceedings of the IEEE 2nd International Conference on Intelligent Perception and Pattern Recognition, in progress, 2025.
 
