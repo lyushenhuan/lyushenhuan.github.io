@@ -97,7 +97,7 @@ In: Proceedings of the IEEE Conference on Computer Communications, Under Review,
 
 # 📝 Publications 
 
-- [TMC 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2025time.pdf) [[bib]](papers/wang2025time.html)<br>
+- [[TMC 2025]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2025time.pdf) [[bib]](papers/wang2025time.html)<br>
 Yanyan Wang, Jia Liu, Zhihao, Qu, Shen-Huan Lyu, Bin Tang, and Baoliu Ye. <br> 
 IEEE Transactions on Mobile Computing, in progress, 2026. **(CCF A, CAS Q1)**
 
