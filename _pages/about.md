@@ -79,7 +79,7 @@ Pattern Recognition, Under Review, 2025. **(CCF B, CAS Q1)**
 
 - [PRL 2025] Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. <br>
 Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
-Pattern Recognition, Under Review, 2025. **(CCF C, CAS Q4)**
+Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)**
 
 - [AAAI 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
 Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
@@ -93,12 +93,13 @@ Knowledge-Based Systems, Under Review, 2025. **(CCF C, CAS Q1)**
 Yanyan Wang, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye (\# indicates correspondence.).<br> 
 In: Proceedings of the IEEE Conference on Computer Communications, Under Review, 2026. **(CCF A)**
 
-- [TMC 2025] Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. <br>
-Yanyan Wang, Jia Liu, Zhihao, Qu, Shen-Huan Lyu, Bin Tang, and Baoliu Ye. <br> 
-IEEE Transactions on Mobile Computing, Under Review, 2026. **(CCF A)**
  -->
 
 # 📝 Publications 
+
+- [TMC 2025] Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2025time.pdf) [[bib]](papers/wang2025time.html)<br>
+Yanyan Wang, Jia Liu, Zhihao, Qu, Shen-Huan Lyu, Bin Tang, and Baoliu Ye. <br> 
+IEEE Transactions on Mobile Computing, in progress, 2026. **(CCF A, CAS Q1)**
 
 - [[INS 2025]](https://www.sciencedirect.com/science/article/abs/pii/S0020025525007467) Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. [[paper]](papers/lyu2025enhance.pdf) [[bib]](papers/lyu2025enhance.html) <br>
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br> 
