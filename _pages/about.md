@@ -98,7 +98,7 @@ In: Proceedings of the IEEE Conference on Computer Communications, Under Review,
 # 📝 Publications 
 
 - [[TMC 2025]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2025time.pdf) [[bib]](papers/wang2025time.html)<br>
-Yanyan Wang, Jia Liu, Zhihao, Qu, Shen-Huan Lyu, Bin Tang, and Baoliu Ye. <br> 
+Yanyan Wang, Jia Liu, Zhihao, Qu, **Shen-Huan Lyu**, Bin Tang, and Baoliu Ye. <br> 
 IEEE Transactions on Mobile Computing, in progress, 2026. **(CCF A, CAS Q1)**
 
 - [[INS 2025]](https://www.sciencedirect.com/science/article/abs/pii/S0020025525007467) Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. [[paper]](papers/lyu2025enhance.pdf) [[bib]](papers/lyu2025enhance.html) <br>
