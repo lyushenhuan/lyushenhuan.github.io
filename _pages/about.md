@@ -94,8 +94,9 @@ Yanyan Wang, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye (\# indicate
 In: Proceedings of the IEEE Conference on Computer Communications, Under Review, 2026. **(CCF A)**
 
 - [JPCE 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
-Chaoqi Wang, Zhi Dou, Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yan Zhua, Zhihan Zou (\# indicates correspondence.)<br> 
+Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yan Zhua, Zhihan Zou (\# indicates correspondence.)<br> 
 Physics and Chemistry of the Earth, Under Review, 2025. **(CAS Q3)**
+
 
  -->
 
