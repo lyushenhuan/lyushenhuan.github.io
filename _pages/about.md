@@ -93,9 +93,9 @@ Knowledge-Based Systems, Under Review, 2025. **(CCF C, CAS Q1)**
 Yanyan Wang, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye (\# indicates correspondence.).<br> 
 In: Proceedings of the IEEE Conference on Computer Communications, Under Review, 2026. **(CCF A)**
 
-- [JPCE 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
-Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yan Zhua, Zhihan Zou (\# indicates correspondence.)<br> 
-Physics and Chemistry of the Earth, Under Review, 2025. **(CAS Q3)**
+- [JCH 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
+Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.)<br> 
+Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)**
 
 
  -->
