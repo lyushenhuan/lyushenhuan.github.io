@@ -27,6 +27,7 @@ redirect_from:
         }
         .image {
             flex: 20%;
+            vertical-align: top;  /* 顶部对齐 */
             display: flex;
             justify-content: flex-end;
         }
