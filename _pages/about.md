@@ -45,9 +45,9 @@ redirect_from:
     </div>
 </body>
 
-<!-- 手写风格名人箴言卡片（统一字体大小） -->
+<!-- 手写风格名人箴言卡片 -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
 <style>
 .quote-card{
@@ -63,37 +63,40 @@ redirect_from:
   }
 }
 .quote-card{
-  font-family:"Great Vibes", cursive;
+  font-family:"Inter", system-ui, sans-serif;
   color:rgb(var(--fg));
   border-radius:20px;
   padding:30px;
-  margin:24px 0;
+  margin:22px 0;
   background:linear-gradient(180deg, rgba(var(--bg1),1) 0%, rgba(var(--bg2),1) 100%);
-  box-shadow:0 8px 22px rgba(0,0,0,0.1);
+  box-shadow:0 6px 18px rgba(0,0,0,0.08);
   border:1px solid rgba(var(--ring));
   position:relative;
-  text-align:center;
 }
 
 .quote-mark{
-  font-size:50px;
+  font-size:46px;
   line-height:1;
   opacity:.2;
   font-family:serif;
   position:absolute;
-  top:10px; left:20px;
+  top:10px; right:18px;
 }
 
-.quote-text, .quote-meta{
-  font-size:30px;   /* 统一字体大小 */
+.quote-text{
+  font-family:"Great Vibes", cursive;
+  font-size:28px;
   line-height:1.6;
-  margin:0;
+  margin:0 0 20px 0;
 }
+
 .quote-meta{
-  margin-top:16px;
+  font-family:"Great Vibes", cursive;
+  font-size:22px;
+  text-align:right;
+  opacity:.95;
 }
 </style>
-
 
 <div class="quote-card">
   <div class="quote-mark">“</div>
