@@ -85,7 +85,7 @@ redirect_from:
 
 .quote-text{
   font-family:"Great Vibes", cursive;
-  font-size:28px;
+  font-size:56px;
   line-height:1.6;
   margin:0 0 20px 0;
 }
