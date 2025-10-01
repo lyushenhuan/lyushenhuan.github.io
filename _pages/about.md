@@ -97,10 +97,10 @@ redirect_from:
 <div class="quote-card">
   <div class="quote-mark">“</div>
   <p class="quote-text">
-    The only limit to our realization of tomorrow is our doubts of today.
+    People search for certainty. But there is no certainty.
   </p>
   <div class="quote-meta">
-    —— Franklin D. Roosevelt
+    —— Richard Phillips Feynman
   </div>
 </div>
 
