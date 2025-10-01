@@ -45,54 +45,55 @@ redirect_from:
     </div>
 </body>
 
-<!-- 引用卡片：可放入你的 Markdown 文件中 -->
+<!-- 手写风格名人箴言卡片（统一字体大小） -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,400;1,600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
 
 <style>
 .quote-card{
   --bg1:255,255,255; --bg2:245,247,250;
-  --fg:24,28,35; --accent:66,133,244;
+  --fg:24,28,35; --accent:120,90,200;
   --ring:0,0,0,0.06;
 }
 @media (prefers-color-scheme: dark){
   .quote-card{
-    --bg1:19,22,28; --bg2:26,30,38;
-    --fg:230,233,240; --accent:138,180,248;
+    --bg1:20,22,28; --bg2:30,34,42;
+    --fg:230,233,240; --accent:190,160,250;
     --ring:255,255,255,0.08;
   }
 }
 .quote-card{
-  font-family:"Inter", system-ui, sans-serif;
+  font-family:"Great Vibes", cursive;
   color:rgb(var(--fg));
-  border-radius:16px;
-  padding:24px 26px;
-  margin:18px 0;
+  border-radius:20px;
+  padding:30px;
+  margin:24px 0;
   background:linear-gradient(180deg, rgba(var(--bg1),1) 0%, rgba(var(--bg2),1) 100%);
-  box-shadow:0 6px 18px rgba(0,0,0,0.08);
+  box-shadow:0 8px 22px rgba(0,0,0,0.1);
   border:1px solid rgba(var(--ring));
   position:relative;
+  text-align:center;
 }
+
 .quote-mark{
-  font-size:42px;
+  font-size:50px;
   line-height:1;
   opacity:.2;
   font-family:serif;
   position:absolute;
-  top:8px; right:16px;
+  top:10px; left:20px;
 }
-.quote-text{
-  font-family:"Merriweather", Georgia, serif;
-  font-size:20px;
-  line-height:1.75;
-  margin:0 0 14px 0;
+
+.quote-text, .quote-meta{
+  font-size:30px;   /* 统一字体大小 */
+  line-height:1.6;
+  margin:0;
 }
 .quote-meta{
-  font-size:14px;
-  opacity:.85;
-  text-align:right;
+  margin-top:16px;
 }
 </style>
+
 
 <div class="quote-card">
   <div class="quote-mark">“</div>
