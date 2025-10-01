@@ -62,8 +62,9 @@ redirect_from:
 2025: <a href='https://xujl.github.io/'>[Yu Huang 黄宇]</a> (Co-supervised with Zhihao Qu); <a href='https://xujl.github.io/'>[Yu-Nian Wang 王雨年]</a> (Co-supervised with Shihong Hu); <a href='https://xujl.github.io/'>[Lin-Kun Cui 崔林坤]</a> (Co-supervised with Shihong Hu);<br>
 
 <b>B.Eng Students</b><br>
-2024: [Zhongshi Chen 陈仲石] (Admitted to NJU); [Jinhan Xin 辛金韩] (Admitted to SEU)<br>
-2025: [Xiaotong Liu 刘晓彤]; [Guanghao Ding 丁广浩] (Admitted to NEU); [XunHao Zheng 郑旬澔] (Admitted to HHU)<br>
+2024: [Zhong-Shi Chen 陈仲石] (Admitted to NJU); [Jin-Han Xin 辛金韩] (Admitted to SEU)<br>
+2025: [Guang-Hao Ding 丁广浩] (Admitted to NEU); [Xun-Hao Zheng 郑旬澔] (Admitted to HHU)<br>
+2026: [Xiao-Tong Liu 刘晓彤]<br>
 
 
 <b>Collected Seminars</b><br>
