@@ -104,7 +104,7 @@ redirect_from:
     People search for certainty. But there is no certainty.
   </p>
   <div class="quote-meta">
-    —— Richard Phillips Feynman
+    — Richard Phillips Feynman
   </div>
 </div>
 
