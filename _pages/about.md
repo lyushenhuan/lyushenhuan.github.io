@@ -269,6 +269,7 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 - *2022.01*, Margin Distribution Neural Networks, Huawei Noah's Ark Lab, Online.
 
 # 💻 Experiences
+- *2025.02 - now*, Hong Kong Scholar in [City Univeristy of Hong Kong](https://www.cityu.edu.hk/), Hong Kong.
 - *2022.12 - now*, Assistent Researcher in [Hohai University](https://www.hhu.edu.cn/), Nanjing.
 - *2022.06 - 2022.08*, Machine Learning Engineer in [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/), Nanjing.
 
