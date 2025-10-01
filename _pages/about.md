@@ -249,6 +249,8 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 - AISTATS: 2023-2025
 
 **Reviewer for Journals:**
+- Science China Information Sciences (SCIS)
+- Journal of Machine Learning Research (JMLR)
 - Artificial Intelligence (AIJ)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
