@@ -62,8 +62,8 @@ redirect_from:
 2025: <a href='https://xujl.github.io/'>[Yu Huang 黄宇]</a> (Co-supervised with Zhihao Qu); <a href='https://xujl.github.io/'>[Yu-Nian Wang 王雨年]</a> (Co-supervised with Shihong Hu); <a href='https://xujl.github.io/'>[Lin-Kun Cui 崔林坤]</a> (Co-supervised with Shihong Hu);<br>
 
 <b>B.Eng Students</b><br>
-2024: <a href='https://xujl.github.io/'>[Zhongshi Chen 陈仲石]</a><br>
-2025: <a href='https://xujl.github.io/'>[Xiaotong Liu 刘晓彤]</a>; <a href='https://xujl.github.io/'>[Guanghao Ding 丁广浩]</a>; <a href='https://xujl.github.io/'>[XunHao Zheng 郑旬澔]</a><br>
+2024: [Zhongshi Chen 陈仲石: Admitted to NJU]; [Jinhan Xin 辛金韩: Admitted to SEU]<br>
+2025: [Xiaotong Liu 刘晓彤]; [Guanghao Ding 丁广浩: Admitted to NEU]; [XunHao Zheng 郑旬澔: Admitted to HHU]<br>
 
 
 <b>Collected Seminars</b><br>
@@ -81,7 +81,7 @@ Pattern Recognition, Under Review, 2025. **(CCF B, CAS Q1)**
 Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
 Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)**
 
-- [AAAI 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
+- [AI 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
 Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
 In: Proceedings of the 39th {AAAI} Conference on Artificial Intelligence, Under Review, 2026. **(CCF A)**
 
