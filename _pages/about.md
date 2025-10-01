@@ -32,6 +32,16 @@ redirect_from:
         }
     </style>
 </head>
+
+
+> “People search for certainty. But there is no certainty.”  
+>
+> “人们追寻确定性，但是确定性并不存在”  
+>
+> <div align="right">—— Richard Phillips Feynman</div>  
+> <div align="right">—— 理查德·菲利普斯·费曼</div>
+
+
 <body>
     <div class="container">
         <div class="text">
@@ -45,13 +55,6 @@ redirect_from:
     </div>
 </body>
 
-
-> “People search for certainty. But there is no certainty.”  
->
-> “人们追寻确定性，但是确定性并不存在”  
->
-> <div align="right">—— Richard Phillips Feynman</div>  
-> <div align="right">—— 理查德·菲利普斯·费曼</div>
 
 
 
