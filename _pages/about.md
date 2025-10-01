@@ -45,68 +45,11 @@ redirect_from:
     </div>
 </body>
 
-<!-- 手写风格名人箴言卡片 -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
-<style>
-.quote-card{
-  --bg1:255,255,255; --bg2:245,247,250;
-  --fg:24,28,35; --accent:120,90,200;
-  --ring:0,0,0,0.06;
-}
-@media (prefers-color-scheme: dark){
-  .quote-card{
-    --bg1:20,22,28; --bg2:30,34,42;
-    --fg:230,233,240; --accent:190,160,250;
-    --ring:255,255,255,0.08;
-  }
-}
-.quote-card{
-  font-family:"Inter", system-ui, sans-serif;
-  color:rgb(var(--fg));
-  border-radius:20px;
-  padding:30px;
-  margin:22px 0;
-  background:linear-gradient(180deg, rgba(var(--bg1),1) 0%, rgba(var(--bg2),1) 100%);
-  box-shadow:0 6px 18px rgba(0,0,0,0.08);
-  border:1px solid rgba(var(--ring));
-  position:relative;
-}
+> “People search for certainty. But there is no certainty.”
+>
+> —— Richard Phillips Feynman
 
-.quote-mark{
-  font-size:46px;
-  line-height:1;
-  opacity:.2;
-  font-family:serif;
-  position:absolute;
-  top:10px; right:18px;
-}
-
-.quote-text{
-  font-family:"Great Vibes", cursive;
-  font-size:56px;
-  line-height:3.2;
-  margin:0 0 20px 0;
-}
-
-.quote-meta{
-  font-family:"Great Vibes", cursive;
-  font-size:22px;
-  text-align:right;
-  opacity:.95;
-}
-</style>
-
-<div class="quote-card">
-  <div class="quote-mark">“</div>
-  <p class="quote-text">
-    People search for certainty. But there is no certainty.
-  </p>
-  <div class="quote-meta">
-    — Richard Phillips Feynman
-  </div>
-</div>
 
 
 # 🔥 News
