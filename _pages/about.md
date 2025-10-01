@@ -45,6 +45,65 @@ redirect_from:
     </div>
 </body>
 
+<!-- 引用卡片：可放入你的 Markdown 文件中 -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,400;1,600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+<style>
+.quote-card{
+  --bg1:255,255,255; --bg2:245,247,250;
+  --fg:24,28,35; --accent:66,133,244;
+  --ring:0,0,0,0.06;
+}
+@media (prefers-color-scheme: dark){
+  .quote-card{
+    --bg1:19,22,28; --bg2:26,30,38;
+    --fg:230,233,240; --accent:138,180,248;
+    --ring:255,255,255,0.08;
+  }
+}
+.quote-card{
+  font-family:"Inter", system-ui, sans-serif;
+  color:rgb(var(--fg));
+  border-radius:16px;
+  padding:24px 26px;
+  margin:18px 0;
+  background:linear-gradient(180deg, rgba(var(--bg1),1) 0%, rgba(var(--bg2),1) 100%);
+  box-shadow:0 6px 18px rgba(0,0,0,0.08);
+  border:1px solid rgba(var(--ring));
+  position:relative;
+}
+.quote-mark{
+  font-size:42px;
+  line-height:1;
+  opacity:.2;
+  font-family:serif;
+  position:absolute;
+  top:8px; right:16px;
+}
+.quote-text{
+  font-family:"Merriweather", Georgia, serif;
+  font-size:20px;
+  line-height:1.75;
+  margin:0 0 14px 0;
+}
+.quote-meta{
+  font-size:14px;
+  opacity:.85;
+  text-align:right;
+}
+</style>
+
+<div class="quote-card">
+  <div class="quote-mark">“</div>
+  <p class="quote-text">
+    The only limit to our realization of tomorrow is our doubts of today.
+  </p>
+  <div class="quote-meta">
+    —— Franklin D. Roosevelt
+  </div>
+</div>
+
 
 # 🔥 News
 - <b><font color='red'> Enrolling Students: Looking for self-motivated M.Sc students to work on Artificial Intelligence. <br>Feel free to send me an email with your resume and a document stating your research motivation. </font></b>
