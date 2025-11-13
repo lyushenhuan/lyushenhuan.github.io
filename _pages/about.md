@@ -94,11 +94,11 @@ Pattern Recognition, Under Review, 2025. **(CCF B, CAS Q1)**
 Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
 Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)**
 
-- [AI 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
+- [AIIP 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
 Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
 In: Proceedings of the 39th {AAAI} Conference on Artificial Intelligence, Under Review, 2026. **(CCF A)**
 
-- [KBS 2025] Semi-Supervised Deep Forest: A Large Margin Expedition. <br>
+- [INS 2025] Semi-Supervised Deep Forest: A Large Margin Expedition. <br>
 **Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Baoliu Ye, and Qingfu Zhang.<br> 
 Knowledge-Based Systems, Under Review, 2025. **(CCF C, CAS Q1)**
 
