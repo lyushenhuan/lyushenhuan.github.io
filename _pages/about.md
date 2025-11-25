@@ -94,21 +94,35 @@ Pattern Recognition, Under Review, 2025. **(CCF B, CAS Q1)**
 Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
 Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)**
 
-- [AIIP 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
-Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
-In: Proceedings of the 39th {AAAI} Conference on Artificial Intelligence, Under Review, 2026. **(CCF A)**
+- [JCH 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
+Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.)<br> 
+Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)**
+
+- [ICML 2026]
+
+- [ICML 2026]
+
+- [ICML 2026]
+
+- [ICML 2026]
+
+- [PAKDD 2026] Distributional Margin Bounds for Multi-Label Ranking. <br>
+Shen-Huan Lyu, Yi-Xiao He, Ning Chen, Jia-Le Xu, Yanyan Wang.<br>
+In: PAKDD, Under Review, 2026. **(CCF C)**
 
 - [INS 2025] Semi-Supervised Deep Forest: A Large Margin Expedition. <br>
 **Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Baoliu Ye, and Qingfu Zhang.<br> 
 Knowledge-Based Systems, Under Review, 2025. **(CCF C, CAS Q1)**
 
+- [AIIP 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
+Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
+In: Proceedings of the 39th {AAAI} Conference on Artificial Intelligence, Under Review, 2026. **(CCF A)**
+
 - [INFOCOM 2026] Beyond Reader-Level: Fine-Grained Antenna Scheduling for Efficient RFID Tag Collection. <br>
 Yanyan Wang, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye (\# indicates correspondence.).<br> 
 In: Proceedings of the IEEE Conference on Computer Communications, Under Review, 2026. **(CCF A)**
 
-- [JCH 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
-Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.)<br> 
-Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)**
+
 
 
  -->
