@@ -98,13 +98,13 @@ Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)**
 Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.)<br> 
 Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)**
 
-- [ICML 2026]
+- [ICML 2026] 
 
-- [ICML 2026]
+- [ICML 2026] 
 
-- [ICML 2026]
+- [ICML 2026] 
 
-- [ICML 2026]
+- [ICML 2026] 
 
 - [PAKDD 2026] Distributional Margin Bounds for Multi-Label Ranking. <br>
 Shen-Huan Lyu, Yi-Xiao He, Ning Chen, Jia-Le Xu, Yanyan Wang.<br>
@@ -129,19 +129,19 @@ In: Proceedings of the IEEE Conference on Computer Communications, Under Review,
 
 # 📝 Publications 
 
-- [[TMC 2025]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2025time.pdf) [[bib]](papers/wang2025time.html)<br>
+- [[TMC 2025]](https://ieeexplore.ieee.org/document/11164174) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2025time.pdf) [[bib]](papers/wang2025time.html)<br>
 Yanyan Wang, Jia Liu, Zhihao Qu, **Shen-Huan Lyu**, Bin Tang, and Baoliu Ye. <br> 
-IEEE Transactions on Mobile Computing, in progress, 2026. **(CCF A, CAS Q1)**
+IEEE Transactions on Mobile Computing, Accepted, 2025. **(CCF A, CAS Q1)**
 
 - [[INS 2025]](https://www.sciencedirect.com/science/article/abs/pii/S0020025525007467) Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. [[paper]](papers/lyu2025enhance.pdf) [[bib]](papers/lyu2025enhance.html) <br>
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br> 
-Information Sciences, in progress, 2025. **(CCF B, CAS Q1)**
+Information Sciences, 721:122613, 2025. **(CCF B, CAS Q1)**
 
-- [[IPPR 2025]](https://www.icippr.org/) Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. [[paper]](papers/chen2025learning.pdf) [[bib]](papers/chen2025learning.html) <br>
+- [[IPPR 2025]](https://ieeexplore.ieee.org/document/11198227) Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. [[paper]](papers/chen2025learning.pdf) [[bib]](papers/chen2025learning.html) <br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, and Bin Tang. (\# indicates correspondence.)<br> 
 In: Proceedings of the IEEE 2nd International Conference on Intelligent Perception and Pattern Recognition, in progress, 2025.
 
-- [[IWQoS 2025]](https://iwqos2025.ieee-iwqos.org/) Multi-Range Query in Commodity RFID Systems. [[paper]](papers/wang2025multi.pdf) [[bib]](papers/wang2025multi.html) <br>
+- [[IWQoS 2025]](https://ieeexplore.ieee.org/document/11143251) Multi-Range Query in Commodity RFID Systems. [[paper]](papers/wang2025multi.pdf) [[bib]](papers/wang2025multi.html) <br>
 Yanyan Wang, Jia Liu, Zhihao Qu<sup>#</sup>, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye. (\# indicates correspondence.)<br> 
 In: Proceedings of the 33rd IEEE/ACM International Symposium on Quality of Service, pp. 1-10, Gold Coast, Australia, 2025. **(CCF B)**
 
