@@ -139,7 +139,7 @@ Information Sciences, 721:122613, 2025. **(CCF B, CAS Q1)**
 
 - [[IPPR 2025]](https://ieeexplore.ieee.org/document/11198227) Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. [[paper]](papers/chen2025learning.pdf) [[bib]](papers/chen2025learning.html) <br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, and Bin Tang. (\# indicates correspondence.)<br> 
-In: Proceedings of the IEEE 2nd International Conference on Intelligent Perception and Pattern Recognition, in progress, 2025.
+In: Proceedings of the IEEE 2nd International Conference on Intelligent Perception and Pattern Recognition, pp. 204-210, Chongqing, China, 2025.
 
 - [[IWQoS 2025]](https://ieeexplore.ieee.org/document/11143251) Multi-Range Query in Commodity RFID Systems. [[paper]](papers/wang2025multi.pdf) [[bib]](papers/wang2025multi.html) <br>
 Yanyan Wang, Jia Liu, Zhihao Qu<sup>#</sup>, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye. (\# indicates correspondence.)<br> 
