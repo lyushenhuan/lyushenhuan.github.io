@@ -137,6 +137,10 @@ IEEE Transactions on Mobile Computing, Accepted, 2025. **(CCF A, CAS Q1)**
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br> 
 Information Sciences, 721:122613, 2025. **(CCF B, CAS Q1)**
 
+- [[TKDD 2025]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
+Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
+ACM Transactions on Knowledge Discovery from Data, 20(1), 15:1-21, 2025. **(CCF B, CAS Q3)**
+
 - [[IPPR 2025]](https://ieeexplore.ieee.org/document/11198227) Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. [[paper]](papers/chen2025learning.pdf) [[bib]](papers/chen2025learning.html) <br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, and Bin Tang. (\# indicates correspondence.)<br> 
 In: Proceedings of the 2nd IEEE International Conference on Intelligent Perception and Pattern Recognition, pp. 204-210, Chongqing, China, 2025.
@@ -185,10 +189,6 @@ In: Proceedings of the 41st International Conference on Machine Learning, pp. 53
 - [[IWQoS 2024]](https://iwqos2024.ieee-iwqos.org/) Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2024identifying.pdf) [[bib]](papers/wang2024identifying.html) <br>
 Yanyan Wang, Jia Liu, **Shen-Huan Lyu**, Zhihao Qu, Bin Tang, and Baoliu Ye.<br>
 In: Proceedings of the 32nd IEEE/ACM International Symposium on Quality of Service, pp. 1-10, Guangzhou, China, 2024. **(CCF B)**
-
-- [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
-Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
-ACM Transactions on Knowledge Discovery from Data, in progress, 2024. **(CCF B, CAS Q3)**
 
 - [[JOS 2024]](https://www.jos.org.cn/jos/article/abstract/6841?st=search) Interaction Representations Based Deep Forest Method in Multi-Label Learning. [[paper]](papers/lyu2024interaction.pdf) [[bib]](papers/lyu2024interaction.html) <br>
 **Shen-Huan Lyu**, Yi-He Chen, and Yuan Jiang.<br>
