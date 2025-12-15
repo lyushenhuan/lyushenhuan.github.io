@@ -241,11 +241,11 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 
 
 # 🎖 Honors and Awards
-- *2024.09* The Hong Kong Scholars Program, China.
-- *2024.07* Jiangsu Youth Science and Technology Talent Sponsorship Program, Jiangsu.
-- *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society, Jiangsu.
-- *2023.06* The 5th Special Funding from China Postdoctoral Science Foundation, China.
-- *2022.12* Jiangsu Excellent Postdoctoral Program, Jiangsu.
+- *2024.09* The Hong Kong Scholars Program (中国博士后科学基金委“香江学者”计划), China.
+- *2024.07* Jiangsu Youth Science and Technology Talent Sponsorship Program (江苏省科协青年科技人才托举工程), Jiangsu.
+- *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society (江苏省人工智能学会优博), Jiangsu.
+- *2023.06* The 5th Special Funding from China Postdoctoral Science Foundation (中国博士后科学基金委特别资助项目), China.
+- *2022.12* Jiangsu Excellent Postdoctoral Program (江苏省卓越博士后计划), Jiangsu.
 - *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
 - *2019.09* The First Class Academic Scholarship in Nanjing University, Nanjing. 
 - *2018.09* The First Class Academic Scholarship in Nanjing University, Nanjing.
