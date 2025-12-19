@@ -129,9 +129,9 @@ Pattern Recognition, Accepted, 2026. **(CCF B, CAS Q1)** -->
 Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.). <br> 
 Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)** -->
 
-- [JCH 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
+<!-- - [JCH 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
 Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
-Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)**
+Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)** -->
 
 - [[TMC 2026]](https://ieeexplore.ieee.org/document/11164174) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2026time.pdf) [[bib]](papers/wang2026time.html)<br>
 Yanyan Wang, Jia Liu, Zhihao Qu, **Shen-Huan Lyu**, Bin Tang, and Baoliu Ye. <br> 
