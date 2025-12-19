@@ -129,9 +129,9 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 
 # 📝 Publications 
 
-- [PR 2026] Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. <br>
+<!-- - [PR 2026] Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. <br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
-Pattern Recognition, Accepted, 2026. **(CCF B, CAS Q1)**
+Pattern Recognition, Accepted, 2026. **(CCF B, CAS Q1)** -->
 
 - [[TMC 2026]](https://ieeexplore.ieee.org/document/11164174) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2026time.pdf) [[bib]](papers/wang2026time.html)<br>
 Yanyan Wang, Jia Liu, Zhihao Qu, **Shen-Huan Lyu**, Bin Tang, and Baoliu Ye. <br> 
