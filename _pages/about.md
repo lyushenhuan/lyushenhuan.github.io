@@ -86,17 +86,17 @@ redirect_from:
 
 <!-- # 📋 Manuscripts 
 
-- [PR 2025] Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. <br>
-Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
-Pattern Recognition, Under Review, 2025. **(CCF B, CAS Q1)**
-
 - [PRL 2025] Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. <br>
-Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
+Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.). <br> 
 Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)**
 
 - [JCH 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
-Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.)<br> 
+Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
 Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)**
+
+- [ICML 2026] Rethinking the Learnability in Offline Model-Based Optimization. <br>
+Shen-Huan Lyu, Rong-Xi Tan, Yu Huang, Qingfu Zhang, Chao Qian. <br>
+In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
 
 - [ICML 2026] 
 
@@ -108,19 +108,19 @@ Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)**
 
 - [PAKDD 2026] Distributional Margin Bounds for Multi-Label Ranking. <br>
 Shen-Huan Lyu, Yi-Xiao He, Ning Chen, Jia-Le Xu, Yanyan Wang.<br>
-In: PAKDD, Under Review, 2026. **(CCF C)**
+In: Proceedings of the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining, Under Review, 2026. **(CCF C)**
 
-- [INS 2025] Semi-Supervised Deep Forest: A Large Margin Expedition. <br>
+- [INS 2026] Semi-Supervised Deep Forest: A Large Margin Expedition. <br>
 **Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Baoliu Ye, and Qingfu Zhang.<br> 
-Knowledge-Based Systems, Under Review, 2025. **(CCF C, CAS Q1)**
+Knowledge-Based Systems, Under Review, 2026. **(CCF C, CAS Q1)**
 
-- [AIIP 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
+- [PRL 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
 Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
-In: Proceedings of the 39th {AAAI} Conference on Artificial Intelligence, Under Review, 2026. **(CCF A)**
+Pattern Recognition Letter, Under Review, 2026. **(CCF A)**
 
-- [INFOCOM 2026] Beyond Reader-Level: Fine-Grained Antenna Scheduling for Efficient RFID Tag Collection. <br>
+- [SECON 2026] Beyond Reader-Level: Fine-Grained Antenna Scheduling for Efficient RFID Tag Collection. <br>
 Yanyan Wang, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye (\# indicates correspondence.).<br> 
-In: Proceedings of the IEEE Conference on Computer Communications, Under Review, 2026. **(CCF A)**
+In: Proceedings of the 22nd IEEE International Conference on Sensing, Communication, and Networking, Under Review, 2026. **(CCF B)**
 
 
 
@@ -128,6 +128,10 @@ In: Proceedings of the IEEE Conference on Computer Communications, Under Review,
  -->
 
 # 📝 Publications 
+
+- [PR 2026] Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. <br>
+Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
+Pattern Recognition, Accepted, 2026. **(CCF B, CAS Q1)**
 
 - [[TMC 2026]](https://ieeexplore.ieee.org/document/11164174) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2026time.pdf) [[bib]](papers/wang2026time.html)<br>
 Yanyan Wang, Jia Liu, Zhihao Qu, **Shen-Huan Lyu**, Bin Tang, and Baoliu Ye. <br> 
