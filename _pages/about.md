@@ -59,11 +59,12 @@ redirect_from:
 
 
 # 🔥 News
-- <b><font color='red'> Enrolling Students: Looking for self-motivated M.Sc students to work on Artificial Intelligence. <br>Feel free to send me an email with your resume and a document stating your research motivation. </font></b>
-- *2024.05*: &nbsp;🎉🎉 Our paper "Confidence-Aware Contrastive Learning for Selective Classification" is accepted by the **CCF-A** international conference ICML 2024. 
+- <b><font color='red'> Enrolling Students: Looking for self-motivated M.Sc and Ph.D students to work on Artificial Intelligence. <br>
+Feel free to send me an email with your resume and a document stating your research motivation. </font></b>
+<!-- - *2024.05*: &nbsp;🎉🎉 Our paper "Confidence-Aware Contrastive Learning for Selective Classification" is accepted by the **CCF-A** international conference ICML 2024. 
 - *2023.12*: &nbsp;🎉🎉 My doctoral dissertation "Research on Theoretical Analysis of Deep Forests and Extensions" was awarded the **Excellent Doctoral Dissertation of Jiangsu Association of Artificial Intelligence**. 
 - *2022.12*: &nbsp;🎉🎉 Our paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the **CCF-A** international conference NeurIPS 2022 as an **Oral Presentation**. 
-- *2019.12*: &nbsp;🎉🎉 Our paper "A Refined Margin Distribution Analysis for Forest Representation Learning" is accepted by the **CCF-A** international conference NeurIPS 2019. 
+- *2019.12*: &nbsp;🎉🎉 Our paper "A Refined Margin Distribution Analysis for Forest Representation Learning" is accepted by the **CCF-A** international conference NeurIPS 2019.  -->
 
 #  👨‍💻 Students
 
@@ -243,16 +244,13 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 
 
 # 🎖 Honors and Awards
-- *2024.09* The Hong Kong Scholars Program (中国博士后科学基金委“香江学者”计划), China.
+- *2025.02* The Hong Kong Scholars Program (中国博士后科学基金委“香江学者”计划), China.
 - *2024.07* Jiangsu Youth Science and Technology Talent Sponsorship Program (江苏省科协青年科技人才托举工程), Jiangsu.
 - *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society (江苏省人工智能学会优博), Jiangsu.
 - *2023.06* The 5th Special Funding from China Postdoctoral Science Foundation (中国博士后科学基金委特别资助项目), China.
 - *2022.12* Jiangsu Excellent Postdoctoral Program (江苏省卓越博士后计划), Jiangsu.
-- *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
-- *2019.09* The First Class Academic Scholarship in Nanjing University, Nanjing. 
-- *2018.09* The First Class Academic Scholarship in Nanjing University, Nanjing.
-- *2017.09* Presidential Special Scholarship for first year Ph.D. Student in Nanjing University, Nanjing.
-- *2016.09* The Silver Prize Scholarship for Excellent Student in University of Science and Technology of China, Hefei.
+- *2019.10* Nanjing Artificial Intelligence Industry Talent Program (南京⼈⼯智能产业⼈才兴智计划), Nanjing. 
+- *2017.09* Presidential Special Scholarship for Ph.D. Student in Nanjing University (南京大学博士研究生校长特别奖学金), Nanjing.
 
 # ✨ Academic Service
 **Senior Program Committee Member of Conferences:**
