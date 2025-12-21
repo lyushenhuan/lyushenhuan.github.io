@@ -205,16 +205,9 @@ Journal of Software, 35(4):1934-1944, 2024. **(CCF A in Chinese)**
 Qin-Cheng Zheng, **Shen-Huan Lyu**, Shao-Qun Zhang, Yuan Jiang, and Zhi-Hua Zhou.<br>
 In: Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, pp. 7824-7848, Valencia, ES, 2023. **(CCF C)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
----
-
 - [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[bib]](papers/lyu2022depth.html) <br> 
 **Shen-Huan Lyu**, Yi-Xiao He, and Zhi-Hua Zhou. <br>
 In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022. **(CCF A)**
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET 2022</div><img src='images/lyu2022improving.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -234,16 +227,10 @@ Chinese Journal of Electronics, 31(6):1072-1080, 2022. **(CCF A in Chinese, CAS 
 Yi-He Chen\*, **Shen-Huan Lyu**\*, and Yuan Jiang. (\* indicates equal contribution)<br>
 In: Proceedings of the 21st IEEE International Conference on Data Mining, pp. 1030-1035, Auckland, NZ, 2021. **(CCF B)**
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/lyu2019refined.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
----
-
 - [[NeurIPS 2019]](https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning) A Refined Margin Distribution Analysis for Forest Representation Learning. [[paper]](papers/lyu2019refined.pdf) [[code]](https://github.com/lyushenhuan/lyu2019refined) [[bib]](papers/lyu2019refined.html) <br>
 **Shen-Huan Lyu**, Liang Yang, and Zhi-Hua Zhou.<br>
 In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouver, British Columbia, CA, 2019. **(CCF A)**
-</div>
-</div>
+
 
 
 # 🎖 Honors and Awards
