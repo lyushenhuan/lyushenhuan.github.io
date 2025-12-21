@@ -260,10 +260,10 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 - IJCAI: 2021
 
 **Program Committee Member of Conferences:**
-- ICML: 2021-2024
-- NeurIPS: 2020-2024
-- AAAI: 2020, 2021, 2023
-- IJCAI: 2020, 2022-2024
+- ICML: 2021-2026
+- NeurIPS: 2020-2025
+- AAAI: 2020, 2021, 2023-2026
+- IJCAI: 2020, 2022-2026
 - ICLR: 2020-2025
 - AISTATS: 2023-2025
 
