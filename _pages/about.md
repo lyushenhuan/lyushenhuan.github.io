@@ -56,16 +56,16 @@ redirect_from:
 
 
 
-
-
 # 🔥 News
 - <b><font color='red'> Enrolling Students: Looking for self-motivated M.Sc and Ph.D students to work on Artificial Intelligence. <br>
 Feel free to send me an email with your resume and a document stating your research motivation. </font></b>
 
-<!-- - *2024.05*: &nbsp;🎉🎉 Our paper "Confidence-Aware Contrastive Learning for Selective Classification" is accepted by the **CCF-A** international conference ICML 2024. 
+<!-- 
+- *2024.05*: &nbsp;🎉🎉 Our paper "Confidence-Aware Contrastive Learning for Selective Classification" is accepted by the **CCF-A** international conference ICML 2024. 
 - *2023.12*: &nbsp;🎉🎉 My doctoral dissertation "Research on Theoretical Analysis of Deep Forests and Extensions" was awarded the **Excellent Doctoral Dissertation of Jiangsu Association of Artificial Intelligence**. 
 - *2022.12*: &nbsp;🎉🎉 Our paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the **CCF-A** international conference NeurIPS 2022 as an **Oral Presentation**. 
-- *2019.12*: &nbsp;🎉🎉 Our paper "A Refined Margin Distribution Analysis for Forest Representation Learning" is accepted by the **CCF-A** international conference NeurIPS 2019.  -->
+- *2019.12*: &nbsp;🎉🎉 Our paper "A Refined Margin Distribution Analysis for Forest Representation Learning" is accepted by the **CCF-A** international conference NeurIPS 2019.  
+-->
 
 #  👨‍💻 Students
 
