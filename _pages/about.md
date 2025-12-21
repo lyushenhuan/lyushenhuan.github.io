@@ -60,6 +60,8 @@ redirect_from:
 - <b><font color='red'> Enrolling Students: Looking for self-motivated M.Sc and Ph.D students to work on Artificial Intelligence. <br>
 Feel free to send me an email with your resume and a document stating your research motivation. </font></b>
 
+
+
 <!-- 
 - *2024.05*: &nbsp;🎉🎉 Our paper "Confidence-Aware Contrastive Learning for Selective Classification" is accepted by the **CCF-A** international conference ICML 2024. 
 - *2023.12*: &nbsp;🎉🎉 My doctoral dissertation "Research on Theoretical Analysis of Deep Forests and Extensions" was awarded the **Excellent Doctoral Dissertation of Jiangsu Association of Artificial Intelligence**. 
@@ -250,7 +252,7 @@ In: Advances in Neural Information Processing Systems 32, pp. 5531-5541, Vancouv
 - *2023.12* Excellent Doctoral Dissertation of Jiangsu Artificial Intelligence Society (江苏省人工智能学会优博), Jiangsu.
 - *2023.06* The 5th Special Funding from China Postdoctoral Science Foundation (中国博士后科学基金委特别资助项目), China.
 - *2022.12* Jiangsu Excellent Postdoctoral Program (江苏省卓越博士后计划), Jiangsu.
-- *2019.10* Nanjing Artificial Intelligence Industry Talent Program (南京⼈⼯智能产业⼈才兴智计划), Nanjing. 
+- *2019.10* Nanjing Artificial Intelligence Industry Talent Program (南京市⼈⼯智能产业⼈才兴智计划), Nanjing. 
 - *2017.09* Presidential Special Scholarship for Ph.D. Student in Nanjing University (南京大学博士研究生校长特别奖学金), Nanjing.
 
 # ✨ Academic Service
