@@ -137,9 +137,15 @@ Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)** -->
 Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
 Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/wang2026time.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+---
+
 - [[TMC 2026]](https://ieeexplore.ieee.org/document/11164174) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2026time.pdf) [[bib]](papers/wang2026time.html)<br>
 Yanyan Wang, Jia Liu, Zhihao Qu, **Shen-Huan Lyu**, Bin Tang, and Baoliu Ye. <br> 
-IEEE Transactions on Mobile Computing, Accepted, 2025. **(CCF A, CAS Q1)**
+IEEE Transactions on Mobile Computing, Accepted, 2026. **(CCF A, CAS Q1)**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/lyu2025enhance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -151,9 +157,15 @@ Information Sciences, 721:122613, 2025. **(CCF B, CAS Q1)**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2025</div><img src='images/he2025interpreting.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+---
+
 - [[TKDD 2025]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
 Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, 20(1), 15:1-21, 2025. **(CCF B, CAS Q3)**
+</div>
+</div>
 
 - [[IPPR 2025]](https://ieeexplore.ieee.org/document/11198227) Learning Semantic Boundaries: An Adaptive Structural Loss for Multi-Label Contrastive Learning. [[paper]](papers/chen2025learning.pdf) [[bib]](papers/chen2025learning.html) <br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, and Bin Tang. (\# indicates correspondence.)<br> 
@@ -171,9 +183,15 @@ In: Proceedings of the 13th International Conference on Learning Representations
 Guangfei Qi, Zhihao Qu, **Shen-Huan Lyu**, Ninghui Jia, and Baoliu Ye.<br>
 In: Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, pp. 121-133, Kyoto, Japan, 2024. **(CCF C)**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/lyu2024role.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+---
+
 - [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest. [[paper]](papers/lyu2024role.pdf) [[code]](https://github.com/lyushenhuan/lyu2024role) [[bib]](papers/lyu2024role.html) <br>
 **Shen-Huan Lyu**\*, Jin-Hui Wu\*, Qin-Cheng Zheng, and Baoliu Ye. (\* indicates equal contribution)<br>
 In: Proceedings of the 27th European Conference on Artificial Intelligence, pp. 2042-2049, Santiago de Compostela, Spain, 2024. **(CCF B)**
+</div>
+</div>
 
 - [[ECAI 2024]](https://www.ecai2024.eu/programme/accepted-papers) Mask-Encoded Sparsification: Overcoming Biased Gradients for Communication-Efficient Split Learning. [[paper]](papers/zhou2024mask.pdf) [[bib]](papers/zhou2024mask.html) <br>
 Wenxuan Zhou, Zhihao Qu, **Shen-Huan Lyu**, Miao Cai, and Baoliu Ye.<br>
