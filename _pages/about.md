@@ -141,7 +141,7 @@ Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)** -->
 Yanyan Wang, Jia Liu, Zhihao Qu, **Shen-Huan Lyu**, Bin Tang, and Baoliu Ye. <br> 
 IEEE Transactions on Mobile Computing, Accepted, 2025. **(CCF A, CAS Q1)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/lyu2025enhance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/lyu2025enhance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ---
 
