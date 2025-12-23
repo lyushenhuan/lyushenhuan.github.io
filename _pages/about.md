@@ -141,9 +141,15 @@ Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)** -->
 Yanyan Wang, Jia Liu, Zhihao Qu, **Shen-Huan Lyu**, Bin Tang, and Baoliu Ye. <br> 
 IEEE Transactions on Mobile Computing, Accepted, 2025. **(CCF A, CAS Q1)**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/lyu2025enhance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+---
+
 - [[INS 2025]](https://www.sciencedirect.com/science/article/abs/pii/S0020025525007467) Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. [[paper]](papers/lyu2025enhance.pdf) [[bib]](papers/lyu2025enhance.html) <br>
 **Shen-Huan Lyu**, Yi-Xiao He, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br> 
 Information Sciences, 721:122613, 2025. **(CCF B, CAS Q1)**
+</div>
+</div>
 
 - [[TKDD 2025]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
 Yi-Xiao He, **Shen-Huan Lyu**, and Yuan Jiang.<br>
