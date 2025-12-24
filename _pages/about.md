@@ -73,9 +73,9 @@ Feel free to send me an email with your resume and a document stating your resea
 
 
 <b>M.Eng Students</b><br>
-2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a> (Co-supervised with Baoliu Ye); <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a> (Co-supervised with Bin Tang)<br>
-2024: <a href='https://aleale-xu.github.io/'>[Jia-Le Xu 许佳乐]</a> (Co-supervised with Bin Tang)<br>
-2025: <a href='https://wujing1997.github.io/ '>[Yu Huang 黄宇]</a> (Co-supervised with Zhihao Qu); <a href='https://shengtzu.github.io/'>[Yu-Nian Wang 王雨年]</a> (Co-supervised with Shihong Hu); <a href='https://cuilinkun.github.io/'>[Lin-Kun Cui 崔林坤]</a> (Co-supervised with Shihong Hu)<br>
+2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a> (CAS-Q1 1篇); <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a> (CAS-Q1 1篇)<br>
+2024: <a href='https://aleale-xu.github.io/'>[Jia-Le Xu 许佳乐]</a> <br>
+2025: <a href='https://wujing1997.github.io/ '>[Yu Huang 黄宇]</a>; <a href='https://shengtzu.github.io/'>[Yu-Nian Wang 王雨年]</a>; <a href='https://cuilinkun.github.io/'>[Lin-Kun Cui 崔林坤]</a><br>
 
 <b>B.Eng Students</b><br>
 2024: [Zhong-Shi Chen 陈仲石] (Admitted to NJU); [Jin-Han Xin 辛金韩] (Admitted to SEU)<br>
@@ -125,10 +125,6 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 
 # 📝 Publications 
 
-<!-- - [PR 2026] Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. <br>
-Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
-Pattern Recognition, Accepted, 2026. **(CCF B, CAS Q1)** -->
-
 <!-- - [PRL 2025] Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. <br>
 Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.). <br> 
 Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)** -->
@@ -137,13 +133,17 @@ Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)** -->
 Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
 Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)** -->
 
+- [PR 2026] Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. <br>
+Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
+Pattern Recognition, Just Accepted, 2026. **(CCF B, CAS Q1)**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/wang2026time.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ---
 
 - [[TMC 2026]](https://ieeexplore.ieee.org/document/11164174) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2026time.pdf) [[bib]](papers/wang2026time.html)<br>
 Yanyan Wang, Jia Liu, Zhihao Qu, **Shen-Huan Lyu**, Bin Tang, and Baoliu Ye. <br> 
-IEEE Transactions on Mobile Computing, Accepted, 2026. **(CCF A, CAS Q1)**
+IEEE Transactions on Mobile Computing, Just Accepted, 2026. **(CCF A, CAS Q1)**
 </div>
 </div>
 
