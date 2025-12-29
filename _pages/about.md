@@ -133,7 +133,7 @@ Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)** -->
 Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
 Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)** -->
 
-- [PR 2026] Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. <br>
+- [[PR 2026]](https://authors.elsevier.com/sd/article/S0031-3203(25)01674-7) Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. [[paper]](papers/chen2026improving.pdf) [[bib]](papers/chen2026improving.html)<br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
 Pattern Recognition, Just Accepted, 2026. **(CCF B, CAS Q1)**
 
