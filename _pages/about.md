@@ -126,7 +126,7 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 # 📝 Publications 
 
 <!-- - [PRL 2025] Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. <br>
-Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.). <br> 
+Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
 Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)** -->
 
 <!-- - [JCH 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
