@@ -91,7 +91,7 @@ Feel free to send me an email with your resume and a document stating your resea
 <!-- # 📋 Manuscripts 
 
 - [ICML 2026] Rethinking the Learnability in Offline Model-Based Optimization. <br>
-Shen-Huan Lyu, Rong-Xi Tan, Yu Huang, Qingfu Zhang, Chao Qian. <br>
+Shen-Huan Lyu, Rong-Xi Tan, Ke Xue, Yu Huang, Qingfu Zhang, Chao Qian. <br>
 In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
 
 - [ICML 2026] 
@@ -100,7 +100,6 @@ In: Proceedings of the 43rd International Conference on Machine Learning, Under 
 
 - [ICML 2026] 
 
-- [ICML 2026] 
 
 - [PAKDD 2026] Distributional Margin Bounds for Multi-Label Ranking. <br>
 Shen-Huan Lyu, Yi-Xiao He, Ning Chen, Jia-Le Xu, Yanyan Wang.<br>
@@ -112,7 +111,7 @@ Knowledge-Based Systems, Under Review, 2026. **(CCF C, CAS Q1)**
 
 - [PRL 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
 Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
-Pattern Recognition Letter, Under Review, 2026. **(CCF A)**
+Pattern Recognition Letter, Under Review, 2026. **(CCF C)**
 
 - [SECON 2026] Beyond Reader-Level: Fine-Grained Antenna Scheduling for Efficient RFID Tag Collection. <br>
 Yanyan Wang, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye (\# indicates correspondence.).<br> 
@@ -125,9 +124,6 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 
 # 📝 Publications 
 
-<!-- - [PRL 2025] Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. <br>
-Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>,  Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
-Pattern Recognition Letter, Under Review, 2025. **(CCF C, CAS Q4)** -->
 
 <!-- - [JCH 2025] A multiple surrogate simulation-optimization framework for designing Pump-and-Treat Systems. <br>
 Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
@@ -136,6 +132,10 @@ Journal of Contaminant Hydrology, Under Review, 2025. **(CAS Q3)** -->
 - [[PR 2026]](https://authors.elsevier.com/sd/article/S0031-3203(25)01674-7) Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. [[paper]](papers/chen2026improving.pdf) [[bib]](papers/chen2026improving.html)<br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
 Pattern Recognition, Just Accepted, 2026. **(CCF B, CAS Q1)**
+
+- [PRL 2026] Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. [[paper]](papers/wu2026compressing.pdf) [[bib]](papers/wu2026compressing.html)<br>
+Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
+Pattern Recognition Letters, Just Accepted, 2026. **(CCF C, CAS Q3)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/wang2026time.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
