@@ -73,7 +73,7 @@ Feel free to send me an email with your resume and a document stating your resea
 
 
 <b>M.Eng Students</b><br>
-2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a> (中科院1区Top期刊 1篇, CCF-C 1篇); <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a> (中科院1区Top期刊 1篇, CCF-C 1篇, 水资源学科交叉 1篇)<br>
+2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a> (中科院1区Top期刊 1篇, CCF-C 1篇); <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a> (中科院1区Top期刊 1篇, CCF-C 1篇, 水利学科交叉 1篇)<br>
 2024: <a href='https://aleale-xu.github.io/'>[Jia-Le Xu 许佳乐]</a> <br>
 2025: <a href='https://wujing1997.github.io/ '>[Yu Huang 黄宇]</a>; <a href='https://shengtzu.github.io/'>[Yu-Nian Wang 王雨年]</a>; <a href='https://cuilinkun.github.io/'>[Lin-Kun Cui 崔林坤]</a><br>
 
