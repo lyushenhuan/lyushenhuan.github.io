@@ -130,7 +130,7 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 ---
 
 - [[JCH 2026]](https://www.sciencedirect.com/science/article/abs/pii/S0169772226000379) A Multiple Surrogate Simulation-Optimization Framework for Designing Pump-and-Treat Systems. [[paper]](papers/wang2026multiple.pdf) [[bib]](papers/wang2026multiple.html)<br>
-Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
+Chaoqi Wang, Zhi Dou<sup>#</sup>, Ning Chen, Yan Zhu, Zhihan Zou, Jian Song, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.)<br> 
 Journal of Contaminant Hydrology, 227:104876, 2026. **(GSC T2, CAS Q3)**
 </div>
 </div>
