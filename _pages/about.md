@@ -135,9 +135,15 @@ Journal of Contaminant Hydrology, 227:104876, 2026. **(GSC T2, CAS Q3)**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/chen2026improving.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+---
+
 - [[PR 2026]](https://authors.elsevier.com/sd/article/S0031-3203(25)01674-7) Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. [[paper]](papers/chen2026improving.pdf) [[bib]](papers/chen2026improving.html)<br>
 Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
 Pattern Recognition, 174:113011, 2026. **(CCF B, CAS Q1)**
+</div>
+</div>
 
 - [[PRL 2026]](https://www.sciencedirect.com/science/article/abs/pii/S016786552600022X) Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. [[paper]](papers/wu2026compressing.pdf) [[bib]](papers/wu2026compressing.html)<br>
 Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
