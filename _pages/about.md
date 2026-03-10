@@ -91,24 +91,33 @@ Feel free to send me an email with your resume and a document stating your resea
 
 <!-- # 📋 Manuscripts 
 
-- [ICML 2026] Rethinking the Learnability in Offline Model-Based Optimization. <br>
-Shen-Huan Lyu, Rong-Xi Tan, Ke Xue, Yu Huang, Qingfu Zhang, Chao Qian. <br>
+- [ICML 2026] On the Learnability of Offline Model-Based Optimization: A Ranking Perspective. <br>
+Shen-Huan Lyu, Rong-Xi Tan, Ke Xue, Yi-Xiao He, Yu Huang, Qingfu Zhang, and Chao Qian. <br>
 In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
 
-- [ICML 2026] 
+- [ICML 2026] Breaking the Prototype Bias Loop: Confidence-Aware Federated Contrastive Learning for Highly Imbalanced Clients. <br>
+Tian-Shuang Wu, Shen-Huan Lyu, Ning Chen, Yi-Xiao He, Bin Tang, Baoliu Ye, and Qingfu Zhang. <br>
+In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
 
-- [ICML 2026] 
+- [ICML 2026] CDEoH: Category-Driven Automatic Algorithm Design With Large Language Models. <br>
+Yu-Nian Wang, Shen-Huan Lyu, Ning Chen, Jia-Le Xu, Baoliu Ye, and Qingfu Zhang. <br>
+In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
 
-- [ICML 2026] 
+- [ICML 2026] Towards Automatic Algorithm Design for Task Offloading and Scheduling in Multi-Edge Environments Using Large Language Models. <br>
+Lin-Kun Cui, Shen-Huan Lyu, Shihong Hu, Ning Chen, Yu-Nian Wang, Baoliu Ye, and Qingfu Zhang. <br>
+In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
 
+- [ICML 2026] Rethinking Communication-Efficient Federated Learning with Biased Gradient Compression. <br>
+Wenxuan Zhou, Zhihao Qu, Shen-Huan Lyu, Baoliu Ye, Deze Zeng, and Hengrui Cui. <br>
+In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
 
-- [PAKDD 2026] Distributional Margin Bounds for Multi-Label Ranking. <br>
+- [ICML 2026] Theoretical Investigation on Inductive Bias of Isolation Forest. <br>
+Qin-Cheng Zheng, Shao-Qun Zhang, Shen-Huan Lyu, Yuan Jiang, and Zhi-Hua Zhou. <br>
+In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
+
+- [PR 2026] Distributional Margin Bounds for Multi-Label Ranking. <br>
 Shen-Huan Lyu, Yi-Xiao He, Ning Chen, Jia-Le Xu, Yanyan Wang.<br>
-In: Proceedings of the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining, Under Review, 2026. **(CCF C)**
-
-- [INS 2026] Semi-Supervised Deep Forest: A Large Margin Expedition. <br>
-**Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Baoliu Ye, and Qingfu Zhang.<br> 
-Knowledge-Based Systems, Under Review, 2026. **(CCF C, CAS Q1)**
+In: Proceedings of the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining, Under Review, 2026. **(CCF B)**
 
 - [PRL 2026] EoH-DF: Deep Forest with LLM-Driven Heuristic Feature Evolution for TCM Syndrome Differentiation. <br>
 Yi-Xiao He, Yu-Nian Wang, Jun Qian, and **Shen-Huan Lyu**<sup>#</sup> (\# indicates correspondence.).<br> 
@@ -118,12 +127,15 @@ Pattern Recognition Letter, Under Review, 2026. **(CCF C)**
 Yanyan Wang, **Shen-Huan Lyu**<sup>#</sup>, Bin Tang, and Baoliu Ye (\# indicates correspondence.).<br> 
 In: Proceedings of the 22nd IEEE International Conference on Sensing, Communication, and Networking, Under Review, 2026. **(CCF B)**
 
-
-
-
  -->
 
+
 # 📝 Publications 
+
+<!-- - [INS 2026] A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization for Tabular Data. <br>
+**Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Baoliu Ye, and Qingfu Zhang.<br> 
+Information Sciences, Just Accepted, 2026. **(CCF B, CAS Q1)** -->
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCH 2026</div><img src='images/wang2026multiple.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
