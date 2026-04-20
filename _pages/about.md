@@ -79,9 +79,9 @@ Feel free to send me an email with your resume and a document stating your resea
 
 <b>B.Eng Students</b><br>
 2024: [Zhong-Shi Chen 陈仲石] (Admitted to NJU); [Jin-Han Xin 辛金韩] (Admitted to SEU)<br>
-2025: [Guang-Hao Ding 丁广浩] (Admitted to NEU); [Xun-Hao Zheng 郑旬澔] (Admitted to HHU); [Ying Zhou 周滢] (Admitted to HHU); [Wen Ye 叶玟] (Admitted to HHU)<br>
+2025: [Guang-Hao Ding 丁广浩] (Admitted to NEU); [Xun-Hao Zheng 郑旬澔] (Admitted to HHU); [Ying Zhou 周滢] (Admitted to HHU); [Wen Ye 叶玟] (Admitted to HHU); [Yuan Cai 蔡远] (Admitted to HHU)<br>
 2026: [Xiao-Tong Liu 刘晓彤]<br>
-2027: [Ling-Feng Wang 汪凌烽]<br>
+2027: [Ling-Feng Wang 汪凌烽]; [Fu-Zhao Xu 徐福照]; [Si-Yuan Yao 姚斯元]; [Sen-Bai Zhang 张森柏]; [Cheng-Yi Tang 汤铖轶]<br>
 
 
 <b>Collected Seminars</b><br>
