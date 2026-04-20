@@ -73,9 +73,9 @@ Feel free to send me an email with your resume and a document stating your resea
 
 
 <b>M.Eng Students</b><br>
-2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a> (中科院1区Top期刊 1篇, CCF-C 1篇); <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a> (中科院1区Top期刊 1篇, CCF-C 1篇, AI4Water交叉方向 1篇)<br>
-2024: <a href='https://aleale-xu.github.io/'>[Jia-Le Xu 许佳乐]</a> <br>
-2025: <a href='https://wujing1997.github.io/ '>[Yu Huang 黄宇]</a>; <a href='https://shengtzu.github.io/'>[Yu-Nian Wang 王雨年]</a>; <a href='https://cuilinkun.github.io/'>[Lin-Kun Cui 崔林坤]</a><br>
+2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a> (中科院1区Top期刊 1篇, CCF-C 1篇); <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a> (中科院1区Top期刊 2篇, CCF-C 1篇, AI4Water交叉方向 1篇)<br>
+2024: <a href='https://aleale-xu.github.io/'>[Jia-Le Xu 许佳乐]</a> (中科院1区Top期刊 1篇) <br>
+2025: <a href='https://wujing1997.github.io/ '>[Yu Huang 黄宇]</a> ; <a href='https://shengtzu.github.io/'>[Yu-Nian Wang 王雨年]</a> (中科院1去Top期刊 1篇); <a href='https://cuilinkun.github.io/'>[Lin-Kun Cui 崔林坤]</a><br>
 
 <b>B.Eng Students</b><br>
 2024: [Zhong-Shi Chen 陈仲石] (Admitted to NJU); [Jin-Han Xin 辛金韩] (Admitted to SEU)<br>
@@ -135,6 +135,10 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 <!-- - [INS 2026] A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization for Tabular Data. <br>
 **Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Baoliu Ye, and Qingfu Zhang.<br> 
 Information Sciences, Just Accepted, 2026. **(CCF B, CAS Q1)** -->
+
+- [[PR 2026]](https://authors.elsevier.com/sd/article/S0031-3203(25)01674-7) Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning. [[paper]](papers/xu2026enhance.pdf) [[bib]](papers/xu2026enhance.html)<br>
+Jia-Le Xu, **Shen-Huan Lyu**<sup>#</sup>, Yu-Nian Wang, Ning Chen, Zhihao Qu, Bin Tang, and Baoliu Ye. (\# indicates correspondence.)<br> 
+Pattern Recognition, Just Accepted, 2026. **(CCF B, CAS Q1)**
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCH 2026</div><img src='images/wang2026multiple.png' alt="sym" width="100%"></div></div>
