@@ -138,7 +138,7 @@ Information Sciences, Just Accepted, 2026. **(CCF B, CAS Q1)** -->
 
 - [[PR 2026]](https://authors.elsevier.com/sd/article/S0031-3203(25)01674-7) Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning. [[paper]](papers/xu2026enhance.pdf) [[bib]](papers/xu2026enhance.html)<br>
 Jia-Le Xu, **Shen-Huan Lyu**<sup>#</sup>, Yu-Nian Wang, Ning Chen, Zhihao Qu, Bin Tang, and Baoliu Ye. (\# indicates correspondence.)<br> 
-Pattern Recognition, Just Accepted, 2026. **(CCF B, CAS Q1)**
+Pattern Recognition, 179:113817, 2026. **(CCF B, CAS Q1)**
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCH 2026</div><img src='images/wang2026multiple.png' alt="sym" width="100%"></div></div>
