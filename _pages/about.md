@@ -111,10 +111,6 @@ In: Proceedings of the 43rd International Conference on Machine Learning, Under 
 Wenxuan Zhou, Zhihao Qu, Shen-Huan Lyu, Baoliu Ye, Deze Zeng, and Hengrui Cui. <br>
 In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
 
-- [ICML 2026] Theoretical Investigation on Inductive Bias of Isolation Forest. <br>
-Qin-Cheng Zheng, Shao-Qun Zhang, Shen-Huan Lyu, Yuan Jiang, and Zhi-Hua Zhou. <br>
-In: Proceedings of the 43rd International Conference on Machine Learning, Under Review, 2026. **(CCF A)**
-
 - [PR 2026] Distributional Margin Bounds for Multi-Label Ranking. <br>
 Shen-Huan Lyu, Yi-Xiao He, Ning Chen, Jia-Le Xu, Yanyan Wang.<br>
 In: Proceedings of the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining, Under Review, 2026. **(CCF B)**
@@ -136,7 +132,12 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 **Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Baoliu Ye, and Qingfu Zhang.<br> 
 Information Sciences, Just Accepted, 2026. **(CCF B, CAS Q1)** -->
 
-- [[PR 2026]](https://authors.elsevier.com/sd/article/S0031-3203(25)01674-7) Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning. [[paper]](papers/xu2026enhance.pdf) [[bib]](papers/xu2026enhance.html)<br>
+- [[ICML 2026]](https://arxiv.org/abs/2505.12825) Theoretical Investigation on Inductive Bias of Isolation Forest. <br>
+Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou. <br>
+In: Proceedings of the 43rd International Conference on Machine Learning, Just Accepted, 2026. **(CCF A)**
+
+
+- [[PR 2026]](https://www.sciencedirect.com/science/article/abs/pii/S003132032600782X) Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning. [[paper]](papers/xu2026enhance.pdf) [[bib]](papers/xu2026enhance.html)<br>
 Jia-Le Xu, **Shen-Huan Lyu**<sup>#</sup>, Yu-Nian Wang, Ning Chen, Zhihao Qu, Bin Tang, and Baoliu Ye. (\# indicates correspondence.)<br> 
 Pattern Recognition, 179:113817, 2026. **(CCF B, CAS Q1)**
 
