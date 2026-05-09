@@ -128,13 +128,15 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 
 # 📝 Publications 
 
-- [INS 2026] A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization for Tabular Data. <br>
-**Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Yanyan Wang, Baoliu Ye, and Qingfu Zhang.<br> 
-Information Sciences, Just Accepted, 2026. **(CCF B, CAS Q1)**
 
 - [[ICML 2026]](https://arxiv.org/abs/2505.12825) Theoretical Investigation on Inductive Bias of Isolation Forest. [[paper]](papers/zheng2026theoretical.pdf) [[bib]](papers/zheng2026theoretical.html)<br>
 Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou. <br>
 In: Proceedings of the 43rd International Conference on Machine Learning, Just Accepted, 2026. **(CCF A)**
+
+
+- [INS 2026] A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization for Tabular Data. <br>
+**Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Yanyan Wang, Baoliu Ye, and Qingfu Zhang.<br> 
+Information Sciences, Just Accepted, 2026. **(CCF B, CAS Q1)**
 
 
 - [[PR 2026]](https://www.sciencedirect.com/science/article/abs/pii/S003132032600782X) Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning. [[paper]](papers/xu2026enhance.pdf) [[bib]](papers/xu2026enhance.html)<br>
