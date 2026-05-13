@@ -136,7 +136,7 @@ In: Proceedings of the 43rd International Conference on Machine Learning, Just A
 
 - [[INS 2026]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526005463) A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization for Tabular Data. [[paper]](papers/lyu2026semi.pdf) [[bib]](papers/lyu2026semi.html)<br>
 **Shen-Huan Lyu**, Jia-Le Xu, Yi-Xiao He, Yanyan Wang, Baoliu Ye, and Qingfu Zhang.<br> 
-Information Sciences, 752:123615, 2026. **(CCF B, CAS Q1)**
+Information Sciences, 753:123615, 2026. **(CCF B, CAS Q1)**
 
 
 - [[PR 2026]](https://www.sciencedirect.com/science/article/abs/pii/S003132032600782X) Enhance and Reuse: A Dual-Mechanism Approach to Boost Deep Forest for Label Distribution Learning. [[paper]](papers/xu2026enhance.pdf) [[bib]](papers/xu2026enhance.html)<br>
