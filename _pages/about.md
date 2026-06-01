@@ -129,7 +129,7 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 # 📝 Publications 
 
 - [[TMC 2026]](https://ieeexplore.ieee.org/abstract/document/11534986) Feature Map Compression for Split Learning in Mobile Wireless Environment: Theory and Practice. [[paper]](papers/zhou2026feature.pdf) [[bib]](papers/zhou2026feature.html)<br>
-Wenxuan Zhou, Zhihao Qu, Baoliu Ye, Shen-Huan Lyu, Miao Cai, Mingtao Ji, Song Guo. <br>
+Wenxuan Zhou, Zhihao Qu, Baoliu Ye, **Shen-Huan Lyu**, Miao Cai, Mingtao Ji, Song Guo. <br>
 IEEE Transactions on Mobile Computing, Just Accepted, 2026. **(CCF A, CAS Q1)**
 
 
