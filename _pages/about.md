@@ -128,6 +128,10 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 
 # 📝 Publications 
 
+- [[TMC 2026]](https://ieeexplore.ieee.org/abstract/document/11534986) Feature Map Compression for Split Learning in Mobile Wireless Environment: Theory and Practice. [[paper]](papers/zhou2026feature.pdf) [[bib]](papers/zhou2026feature.html)<br>
+Wenxuan Zhou, Zhihao Qu, Baoliu Ye, Shen-Huan Lyu, Miao Cai, Mingtao Ji, Song Guo. <br>
+IEEE Transactions on Mobile Computing, Just Accepted, 2026. **(CCF A, CAS Q1)**
+
 
 - [[ICML 2026]](https://arxiv.org/abs/2505.12825) Theoretical Investigation on Inductive Bias of Isolation Forest. [[paper]](papers/zheng2026theoretical.pdf) [[bib]](papers/zheng2026theoretical.html)<br>
 Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou. <br>
