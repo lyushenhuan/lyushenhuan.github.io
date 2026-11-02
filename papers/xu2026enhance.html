@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Enhance and reuse: A dual-mechanism approach to boost deep forest for label distribution learning — BibTeX</title>
+    <style>
+        body { max-width: 70rem; margin: 2rem auto; padding: 0 1rem; font-family: sans-serif; line-height: 1.5; }
+        textarea { box-sizing: border-box; width: 100%; min-height: 22rem; padding: 1rem; font: 1rem/1.5 monospace; }
+        button, a { margin-right: 1rem; }
+    </style>
+</head>
+<body>
+    <h1>Enhance and reuse: A dual-mechanism approach to boost deep forest for label distribution learning</h1>
+    <label for="bibtex">BibTeX citation</label>
+    <textarea id="bibtex" readonly spellcheck="false">@article{xu2026enhance,
+  title = {Enhance and reuse: A dual-mechanism approach to boost deep forest for label distribution learning},
+  author = {Xu, Jia-Le and Lyu, Shen-Huan and Wang, Yu-Nian and Chen, Ning and Qu, Zhihao and Tang, Bin and Ye, Baoliu},
+  journal = {Pattern Recognition},
+  year = {2026},
+  volume = {179},
+  pages = {113817},
+  doi = {10.1016/j.patcog.2026.113817},
+  url = {https://doi.org/10.1016/j.patcog.2026.113817}
+}
+</textarea>
+    <p>
+        <button type="button" onclick="copyText()">Copy BibTeX</button>
+        <a href="xu2026enhance.bib" download>Download .bib</a>
+        <a href="https://doi.org/10.1016/j.patcog.2026.113817">Publisher</a>
+    </p>
+    <p id="copy-status" role="status" aria-live="polite"></p>
+    <script>
+        async function copyText() {
+            const field = document.getElementById('bibtex');
+            const status = document.getElementById('copy-status');
+            try {
+                await navigator.clipboard.writeText(field.value);
+                status.textContent = 'BibTeX copied.';
+            } catch (error) {
+                field.focus();
+                field.select();
+                field.setSelectionRange(0, field.value.length);
+                status.textContent = 'Please copy the selected text, or download the .bib file.';
+            }
+        }
+    </script>
+</body>
+</html>

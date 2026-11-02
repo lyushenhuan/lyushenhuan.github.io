@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Grid-based Decision Tree Learning — BibTeX</title>
+    <style>
+        body { max-width: 70rem; margin: 2rem auto; padding: 0 1rem; font-family: sans-serif; line-height: 1.5; }
+        textarea { box-sizing: border-box; width: 100%; min-height: 22rem; padding: 1rem; font: 1rem/1.5 monospace; }
+        button, a { margin-right: 1rem; }
+    </style>
+</head>
+<body>
+    <h1>Grid-based Decision Tree Learning</h1>
+    <label for="bibtex">BibTeX citation</label>
+    <textarea id="bibtex" readonly spellcheck="false">@article{zheng2026grid,
+  title = {Grid-based Decision Tree Learning},
+  author = {Zheng, Qin-Cheng and Zhang, Shao-Qun and Lyu, Shen-Huan and Jiang, Yuan and Zhou, Zhi-Hua},
+  journal = {Machine Learning},
+  year = {2026},
+  volume = {115},
+  number = {10},
+  pages = {242},
+  doi = {10.1007/s10994-026-07165-0},
+  url = {https://doi.org/10.1007/s10994-026-07165-0}
+}
+</textarea>
+    <p>
+        <button type="button" onclick="copyText()">Copy BibTeX</button>
+        <a href="zheng2026grid.bib" download>Download .bib</a>
+        <a href="https://doi.org/10.1007/s10994-026-07165-0">Publisher</a>
+    </p>
+    <p id="copy-status" role="status" aria-live="polite"></p>
+    <script>
+        async function copyText() {
+            const field = document.getElementById('bibtex');
+            const status = document.getElementById('copy-status');
+            try {
+                await navigator.clipboard.writeText(field.value);
+                status.textContent = 'BibTeX copied.';
+            } catch (error) {
+                field.focus();
+                field.select();
+                field.setSelectionRange(0, field.value.length);
+                status.textContent = 'Please copy the selected text, or download the .bib file.';
+            }
+        }
+    </script>
+</body>
+</html>

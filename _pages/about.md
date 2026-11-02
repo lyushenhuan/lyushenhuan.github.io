@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 <head>
@@ -128,14 +121,19 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 
 # 📝 Publications 
 
+- [[MLJ 2026]](https://link.springer.com/article/10.1007/s10994-026-07165-0) Grid-based Decision Tree Learning. [[paper]](papers/zheng2026grid.pdf) [[bib]](papers/zheng2026grid.html)<br>
+Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou.<br>
+Machine Learning, 115(10):242, 2026.
+
+
 - [[TMC 2026]](https://ieeexplore.ieee.org/abstract/document/11534986) Feature Map Compression for Split Learning in Mobile Wireless Environment: Theory and Practice. [[paper]](papers/zhou2026feature.pdf) [[bib]](papers/zhou2026feature.html)<br>
 Wenxuan Zhou, Zhihao Qu, Baoliu Ye, **Shen-Huan Lyu**, Miao Cai, Mingtao Ji, Song Guo. <br>
-IEEE Transactions on Mobile Computing, Just Accepted, 2026. **(CCF A, CAS Q1)**
+IEEE Transactions on Mobile Computing, 25(10):17520-17534, 2026. **(CCF A, CAS Q1)**
 
 
-- [[ICML 2026]](https://arxiv.org/abs/2505.12825) Theoretical Investigation on Inductive Bias of Isolation Forest. [[paper]](papers/zheng2026theoretical.pdf) [[bib]](papers/zheng2026theoretical.html)<br>
+- [[ICML 2026]](https://proceedings.mlr.press/v306/zheng26ag.html) Theoretical Investigation on Inductive Bias of Isolation Forest. [[paper]](papers/zheng26theoretical.pdf) [[bib]](papers/zheng2026theoretical.html)<br>
 Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou. <br>
-In: Proceedings of the 43rd International Conference on Machine Learning, Just Accepted, 2026. **(CCF A)**
+In: Proceedings of the 43rd International Conference on Machine Learning, PMLR 306, pp. 163944-163972, 2026. **(CCF A)**
 
 
 - [[INS 2026]](https://www.sciencedirect.com/science/article/abs/pii/S0020025526005463) A Semi-Supervised Deep Forest Framework Based on Margin Distribution Optimization for Tabular Data. [[paper]](papers/lyu2026semi.pdf) [[bib]](papers/lyu2026semi.html)<br>
