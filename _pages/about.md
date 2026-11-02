@@ -124,7 +124,7 @@ In: Proceedings of the 22nd IEEE International Conference on Sensing, Communicat
 
 - [[MLJ 2026]](https://link.springer.com/article/10.1007/s10994-026-07165-0) Grid-based Decision Tree Learning. [[paper]](papers/zheng2026grid.pdf) [[bib]](papers/zheng2026grid.html)<br>
 Qin-Cheng Zheng, Shao-Qun Zhang, **Shen-Huan Lyu**, Yuan Jiang, and Zhi-Hua Zhou.<br>
-Machine Learning, 115(10):242, 2026.
+Machine Learning, 115(10):242, 2026. **(CCF B)**
 
 
 - [[TMC 2026]](https://ieeexplore.ieee.org/abstract/document/11534986) Feature Map Compression for Split Learning in Mobile Wireless Environment: Theory and Practice. [[paper]](papers/zhou2026feature.pdf) [[bib]](papers/zhou2026feature.html)<br>
