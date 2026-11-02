@@ -69,12 +69,13 @@ Feel free to send me an email with your resume and a document stating your resea
 2023: <a href='https://tianshuangwu.github.io/'>[Tian-Shuang Wu 吴填双]</a> (中科院1区Top期刊 1篇；中兴通讯); <a href='https://cnkeysky.github.io/'>[Ning Chen 陈宁]</a> (中科院1区Top期刊 2篇)<br>
 2024: <a href='https://aleale-xu.github.io/'>[Jia-Le Xu 许佳乐]</a> (中科院1区Top期刊 2篇) <br>
 2025: <a href='https://wujing1997.github.io/ '>[Yu Huang 黄宇]</a> ; <a href='https://shengtzu.github.io/'>[Yu-Nian Wang 王雨年]</a> (中科院1区Top期刊 1篇); <a href='https://cuilinkun.github.io/'>[Lin-Kun Cui 崔林坤]</a><br>
+2025: <a href='https://xxx.github.io/ '>[Xun-Hao Zheng 郑旬澔]</a> ; <a href='https://xxx.github.io/'>[Wen Ye 叶玟]</a> ; <a href='https://xxx.github.io/'>[Yuan Cai 蔡远]</a> ; <a href='https://xxx.github.io/'>[Rong-Hui Wei 魏荣辉]</a><br>
 
 <b>B.Eng Students</b><br>
 2024: [Zhong-Shi Chen 陈仲石] (保研南大); [Jin-Han Xin 辛金韩] (保研东南)<br>
 2025: [Guang-Hao Ding 丁广浩] (保研东大); [Xun-Hao Zheng 郑旬澔] (保研河海); [Ying Zhou 周滢] (保研河海); [Wen Ye 叶玟] (保研河海); [Yuan Cai 蔡远] (考研河海)<br>
-2026: [Xiao-Tong Liu 刘晓彤]<br>
-2027: [Ling-Feng Wang 汪凌烽]; [Fu-Zhao Xu 徐福照]; [Si-Yuan Yao 姚斯元]; [Sen-Bai Zhang 张森柏]; [Cheng-Yi Tang 汤铖轶]<br>
+2026: [Xiao-Tong Liu 刘晓彤] (保研中科大)<br>
+2027: [Ling-Feng Wang 汪凌烽]; [Fu-Zhao Xu 徐福照]; [Si-Yuan Yao 姚斯元]; [Sen-Bai Zhang 张森柏]; [Cheng-Yi Tang 汤铖轶]; [Hui-Jing Shen 沈慧晶]; [Zhi-Xiang Cao 曹智翔]<br>
 
 
 <b>Collected Seminars</b><br>
